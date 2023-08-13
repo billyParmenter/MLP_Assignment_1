@@ -12,8 +12,6 @@
 10,"['i', 'call', 'one', 'a', 'retired', 'union', 'pipefitter', 'welder', 'retired', 'public', 'school', 'secretary', 'walk', 'youngest', 'daughter', 'congressional', 'office', 'my', 'first', 'visitors']",neutral
 11,"['i', 'tell', 'every', 'foreign', 'diplomat', 'intel', 'officer', 'posted', 'united', 'states', 'surely', 'writing', 'cables', 'back', 'home', 'tonight', 'fragility', 'america', 'democracy', 'depravity', 'president', 'part', 'i']",negative
 12,"['hope', 'hicks', 'one', 'best', 'known', 'least', 'visible', 'former', 'members', 'president', 'trump', 'white', 'house', 'staff', 'facing', 'existential', 'question', 'whether', 'comply', 'congressional', 'subpoena', 'i', 'x']",neutral
-13,"['i', 'tell', 'every', 'foreign', 'diplomat', 'intel', 'officer', 'posted', 'united', 'states', 'surely', 'writing', 'cables', 'back', 'home', 'tonight', 'fragility', 'america', 'democracy', 'depravity', 'president', 'part', 'i']",negative
-14,"['hope', 'hicks', 'one', 'best', 'known', 'least', 'visible', 'former', 'members', 'president', 'trump', 'white', 'house', 'staff', 'facing', 'existential', 'question', 'whether', 'comply', 'congressional', 'subpoena', 'i', 'x']",neutral
 15,"['it', 'heavy', 'heart', 'i', 'calling', 'sake', 'democracy', 'th', 'amendment', 'invoked', 'my', 'statement']",neutral
 16,"['i', 'visited', 'nations', 'ravaged', 'civil', 'war', 'donald', 'trump', 'i', 'never', 'imagined', 'quote', 'repeated', 'president', 'this', 'beyond', 'repugnant']",negative
 17,['istanbul'],negative
@@ -36,7 +34,6 @@
 34,"['how', 'top', 'evade', 'taxes', 'every', 'year', 'immigrants', 'called', 'freeloaders']",negative
 35,"['welcome', 'p', 'o', 't', 'you', 's', 'greater', 'cincinnati', 'we', 'thrilled', 'president', 'choosing', 'visit', 'kentucky', 'ohio', 'celebrate', 'historic', 'billion', 'federal', 'money', 'going', 'towards', 'brent', 'spence', 'bridge', 'project', 'this', 'long', 'time', 'coming']",positive
 36,"['nice', 'speech', 'lindsey', 'graham', 's', 'c', 'but', 'i', 'seem', 'recall', 'called', 'go', 'ahead', 'a', 'r', 'secretaries', 'state', 'find', 'votes', 'golf', 'buddy']",neutral
-37,"['nice', 'speech', 'lindsey', 'graham', 's', 'c', 'but', 'i', 'seem', 'recall', 'called', 'go', 'ahead', 'a', 'r', 'secretaries', 'state', 'find', 'votes', 'golf', 'buddy']",neutral
 38,"['thanks', 'american', 'voters', 'back', 'paris', 'agreement', 'america', 'poised', 'lead', 'world', 'climate', 'action', 'working', 'allies', 'build', 'better', 'future', 'us', 'time', 'get', 'back', 'work']",positive
 39,"['today', 'election', 'results', 'mark', 'significant', 'turning', 'point', 'future', 'brazil', 'demonstrate', 'power', 'democracy', 'advance', 'progress', 'planet', 'people', 'part', 'i']",positive
 40,"['today', 'decision', 'disappointment', 'surprise', 'it', 'result', 'coordination', 'fossil', 'fuel', 'lobby', 'dismantle', 'progress', 'toward', 'climate', 'solutions', 'this', 'ruling', 'mean', 'options', 'we', 'must', 'call', 'congress', 'discard', 'climate', 'legislation', 'no']",negative
@@ -76,25 +73,19 @@
 74,"['today', 'i', 'denied', 'opportunity', 'attend', 'secret', 'called', 'impeachment', 'hearings', 'i', 'continue', 'fight', 'behalf', 'constituents', 'expose', 'sham', 'process', 'stand', 'president', 'donald', 'trump']",negative
 75,"['b', 'r', 'e', 'a', 'k', 'i', 'g', 'hearing', 'room', 'exposing', 'adam', 'schiff', ""'s"", 'secret', 'called', 'impeachment', 'inquiry']",neutral
 76,"['decepcionada', 'wanda', 'rol', 'noc', 'el', 'gobernador', 'tras', 'vetar', 'proyecto', 'de', 'libertad', 'religiosa', 'noti', 'uno']",neutral
-77,"['decepcionada', 'wanda', 'rol', 'noc', 'el', 'gobernador', 'tras', 'vetar', 'proyecto', 'de', 'libertad', 'religiosa', 'noti', 'uno']",neutral
 78,['impeach'],neutral
 79,"['i', 'okay']",neutral
 80,"['congratulations', 'president', 'elect', 'joe', 'biden', 'vice', 'president', 'elect', 'kamala', 'harris']",positive
-81,['impeach'],neutral
-82,"['i', 'okay']",neutral
-83,"['congratulations', 'president', 'elect', 'joe', 'biden', 'vice', 'president', 'elect', 'kamala', 'harris']",positive
 84,"['very', 'proud', 'emotional', 'moment', 'today', 'the', 'house', 'passed', 'bill', 'eliminating', 'deposit', 'cans', 'in', 'reference', 'non', 'citizens', 'whose', 'rights', 'supposedly', 'infringed']",positive
 85,"['president', 'obama', 'bringing', 'f', 'i', 'r', 'e', 'tonight', 'wisconsin', 'calling', 'folks', 'name', 'telling', 'truth', 'republican', 'plans', 'roll', 'back', 'social', 'security']",neutral
 86,"['holy', 'shit']",neutral
 87,"['it', 'grave', 'concern', 'generations', 'family', 'fought', 'preserve', 'individual', 'constitutional', 'liberties', 'like', 'freedom', 'speech', 'yet', 'technocratic', 'secular', 'fascists', 'decided', 'end', 'americans', 'ruthless', 'nature', 'left', 'full', 'display', 'undebatable']",negative
-88,"['it', 'grave', 'concern', 'generations', 'family', 'fought', 'preserve', 'individual', 'constitutional', 'liberties', 'like', 'freedom', 'speech', 'yet', 'technocratic', 'secular', 'fascists', 'decided', 'end', 'americans', 'ruthless', 'nature', 'left', 'full', 'display', 'undebatable']",negative
 89,"['congress', 'never', 'allowed', 'impeached', 'president', 'fill', 'supreme', 'court', 'vacancy', 'pass', 'on']",neutral
 90,"['i', 'proud', 'cast', 'vote', 'sixth', 'time', 'honorable', 'hakeemjeffries', 'speaker', 'house']",positive
 91,"['we', 'trying', 'mr', 'president', 'trying']",positive
 92,"['are', 'allowed', 'impeach', 'president', 'gross', 'incompetence']",negative
 93,"['thank', 'president', 'trump', 'it', 'great', 'honor', 'declare', 'sunday', 'march', 'th', 'national', 'day', 'prayer', 'we', 'country', 'throughout', 'history', 'looked', 'god', 'protection', 'strength', 'times', 'crisis', 'p', 'in', 'march', 'first', 'sign', 'serious', 'rebellion', 'italians', 'fascist', 'regime', 'war', 'began', 'strike', 'factory', 'workers', 'joined', 'soldiers', 'singing', 'communist', 'songs', 'even', 'rank', 'file', 'fascist', 'party', 'members']",positive
 94,"['t', 'r', 'you', 'm', 'p', 'i', 's', 's', 't', 'i', 'l', 'l', 'n', 'o', 't', 'r', 'a', 'c', 'i', 's', 't']",neutral
-95,"['thank', 'president', 'trump', 'it', 'great', 'honor', 'declare', 'sunday', 'march', 'th', 'national', 'day', 'prayer', 'we', 'country', 'throughout', 'history', 'looked', 'god', 'protection', 'strength', 'times', 'crisis', 'p', 'in', 'march', 'first', 'sign', 'serious', 'rebellion', 'italians', 'fascist', 'regime', 'war', 'began', 'strike', 'factory', 'workers', 'joined', 'soldiers', 'singing', 'communist', 'songs', 'even', 'rank', 'file', 'fascist', 'party', 'members']",positive
 96,"['hi', 'k', 'st', 'louis', 'barack', 'obama']",neutral
 97,"['you', 'made', 'barbuda', 'produce', 'birth', 'certificate', 'years', 'fact']",negative
 98,"['requiring', 'f', 'b', 'i', 'investigation', 'year', 'old', 'allegation', 'without', 'specific', 'references', 'time', 'location', 'professor', 'ford', 'appear', 'judiciary', 'committee', 'finding', 'truth', 'delaying', 'process', 'till', 'midterm', 'elections']",negative
@@ -103,10 +94,6 @@
 101,"['well', 'great']",positive
 102,"['police', 'officer', 'derek', 'chauvin', 'arrested', 'custody', 'murder', 'george', 'floyd', 'the', 'first', 'step', 'towards', 'justice']",neutral
 103,"['thanks', 'sent', 'kind', 'words', 'prayers', 'husband', 'john', 'he', 'hospital', 'year', 'a', 'unhealthy', 'coping', 'mechanism', 'developed', 'suppress', 'avoid', 'feelings', 'marital', 'problems']",positive
-104,"['get', 'lawn']",negative
-105,"['well', 'great']",positive
-106,"['police', 'officer', 'derek', 'chauvin', 'arrested', 'custody', 'murder', 'george', 'floyd', 'the', 'first', 'step', 'towards', 'justice']",neutral
-107,"['thanks', 'sent', 'kind', 'words', 'prayers', 'husband', 'john', 'he', 'hospital', 'year', 'a', 'unhealthy', 'coping', 'mechanism', 'developed', 'suppress', 'avoid', 'feelings', 'marital', 'problems']",positive
 108,"['i', 'running', 'replace', 'mitch', 'mc', 'connell', 'y', 'o', 'you', 's', 'senate', 'everything', 'wrong', 'washington', 'start', 'somewhere', 'started', 'with', 'help', 'defeat', 'mitch', 'defend', 'democracy', 'join', 'us', 'amy', 'm', 'grath']",neutral
 109,"['mitch', 'mc', 'connell', 'office', 'since', 'i', 'years', 'old', 'we', 'need', 'term', 'limits']",negative
 110,"['the', 'voters', 'new', 'york', 'state', 'spoken', 'elected', 'clear', 'democratic', 'majority', 'state', 'senate', 'while', 'results', 'elections', 'still', 'determined', 'least', 'senate', 'democratic', 'conference', 'members', 'already', 'election', 'tonight']",positive
@@ -114,8 +101,6 @@
 112,"['health', 'care', 'workers', 'wear', 'masks', 'hours', 'non', 'stop', 'you', 'wear', 'one', 'minutes']",neutral
 113,"['i', 'replacing', 'earlier', 'concession', 'unapologetic', 'uncompromising', 'call', 'count', 'every', 'vote']",neutral
 114,"['mayor', 'gillum', 'conceded', 'on', 'election', 'day', 'broward', 'county', 'put', 'back', 'play', 'bill', 'nelson', 'conceded', 'election', 'back', 'play', 'this', 'embarrassment', 'country', 'democracy']",negative
-115,"['i', 'replacing', 'earlier', 'concession', 'unapologetic', 'uncompromising', 'call', 'count', 'every', 'vote']",neutral
-116,"['mayor', 'gillum', 'conceded', 'on', 'election', 'day', 'broward', 'county', 'put', 'back', 'play', 'bill', 'nelson', 'conceded', 'election', 'back', 'play', 'this', 'embarrassment', 'country', 'democracy']",negative
 117,"['president', 'trump', 'remarks', 'telling', 'colleagues', 'go', 'back', 'came', 'reveals', 'narrow', 'minded', 'ideas', 'belongs', 'country', 'they', 'principled', 'americans', 'belong', 'right', 'congress', 'pushing', 'back', 'dangerous', 'agenda']",negative
 118,"['i', 'stand', 'solidarity', 'people', 'indiana', 'around', 'world', 'rallying', 'today', 'support', 'palestinian', 'rights', 'i', 'continue', 'use', 'position', 'congress', 'platform', 'champion', 'palestinian', 'people', 'work', 'toward', 'lasting', 'peace', 'day', 'action', 'save', 'sheikh', 'jarrah']",positive
 119,"['more', 'year', 'president', 'trump', 'negotiated', 'north', 'america', 'trade', 'deal', 'good', 'finally', 'see', 'unnecessary', 'partisan', 'delay', 'speaker', 'nancy', 'pelosi', 'pass', 'united', 'states', 'mexico', 'canada', 'agreement', 'you', 's', 'm', 'c', 'a', 'coming', 'end']",positive
@@ -133,21 +118,11 @@
 131,"['i', 'proud', 'today', 'announce', 'kathleen', 'palmer', 'senior', 'shawnee', 'high', 'school', 'medford', 'winner', 'congressional', 'art', 'competition', 'district', 'her', 'artwork', 'see', 'displayed', 'y', 'o', 'you', 's', 'capitol']",positive
 132,"['my', 'wife', 'thrilled', 'i', 'put', 'lego', 'millennium', 'falcon', 'wedding', 'registry', 'to', 'seem', 'completely', 'self', 'indulgent', 'i', 'told', 'i', 'would', 'wait', 'kids', 'build', 'today', 'patient', 'years', 'adventure', 'begins', 'may', 'th', 'may', 'the', 'th', 'be', 'with', 'you']",neutral
 133,"['my', 'year', 'old', 'boy', 'came', 'home', 'asked', 'bigger', 'kid', 'kept', 'calling', 'chinese', 'boy', 'my', 'son', 'confused', 'told', 'boy', 'i', 'new', 'jersey', 'boy', 'he', 'laughed', 'eyes', 'welled', 'years', 'ago', 'parents', 'immigrated', 'shake', 'shadow', 'foreignness', 'stop', 'asian', 'hate']",neutral
-134,"['when', 'i', 'requested', 'f', 'e', 'm', 'a', 'stand', 'coronavirus', 'test', 'site', 'south', 'jersey', 'told', 'white', 'house', 'said', 'no', 'now', 'know']",negative
-135,"['took', 'moment', 'votes', 'visit', 'members', 'n', 'j', 'national', 'guard', 'protecting', 'capitol', 'thank', 'make', 'sure', 'caffeinated', 'night', 'shift', 'can', 'thank', 'enough', 'service', 'keeping', 'us', 'safe']",positive
-136,"['i', 'proud', 'today', 'announce', 'kathleen', 'palmer', 'senior', 'shawnee', 'high', 'school', 'medford', 'winner', 'congressional', 'art', 'competition', 'district', 'her', 'artwork', 'see', 'displayed', 'y', 'o', 'you', 's', 'capitol']",positive
-137,"['my', 'wife', 'thrilled', 'i', 'put', 'lego', 'millennium', 'falcon', 'wedding', 'registry', 'to', 'seem', 'completely', 'self', 'indulgent', 'i', 'told', 'i', 'would', 'wait', 'kids', 'build', 'today', 'patient', 'years', 'adventure', 'begins', 'may', 'th', 'may', 'the', 'th', 'be', 'with', 'you']",neutral
-138,"['my', 'year', 'old', 'boy', 'came', 'home', 'asked', 'bigger', 'kid', 'kept', 'calling', 'chinese', 'boy', 'my', 'son', 'confused', 'told', 'boy', 'i', 'new', 'jersey', 'boy', 'he', 'laughed', 'eyes', 'welled', 'years', 'ago', 'parents', 'immigrated', 'shake', 'shadow', 'foreignness', 'stop', 'asian', 'hate']",neutral
 139,"['a', 'cool', 'moment', 'today', 'inauguration', 'governor', 'wes', 'moore', 'bowie', 'high', 'school', 'marching', 'band', 'invited', 'perform', 'historic', 'moment', 'statego', 'bulldogs', 'prince', 'georges', 'proud', 'p', 'g', 'c', 'p', 's', 'proud']",positive
 140,"['congrats', 'frances', 'tiafoe', 'this', 'prince', 'george', 'scott', 'anne']",positive
 141,"['we', 'waiting', 'four', 'months']",positive
-142,"['a', 'cool', 'moment', 'today', 'inauguration', 'governor', 'wes', 'moore', 'bowie', 'high', 'school', 'marching', 'band', 'invited', 'perform', 'historic', 'moment', 'statego', 'bulldogs', 'prince', 'georges', 'proud', 'p', 'g', 'c', 'p', 's', 'proud']",positive
-143,"['congrats', 'frances', 'tiafoe', 'this', 'prince', 'george', 'scott', 'anne']",positive
-144,"['we', 'waiting', 'four', 'months']",positive
 145,"['police', 'protect', 'community', 'includes', 'protecting', 'exercising', 'right', 'peacefully', 'protest', 'infringing', 'right', 'rioting', 'looting', 'hurting', 'others', 'i', 'joined', 'greg', 'abbott', 'propose', 'turning', 'rioting', 'related', 'offenses', 'felonies']",neutral
 146,"['america', 'country', 'opportunity', 'anything', 'possible', 'else', 'could', 'little', 'girl', 'raised', 'taiwan', 'parents', 'fled', 'communism', 'grow', 'serve', 'tx', 'lege', 'thank', 'mom', 'dad', 'teaching', 'value', 'freedom', 'd', 'national', 'immigrants', 'day']",positive
-147,"['police', 'protect', 'community', 'includes', 'protecting', 'exercising', 'right', 'peacefully', 'protest', 'infringing', 'right', 'rioting', 'looting', 'hurting', 'others', 'i', 'joined', 'greg', 'abbott', 'propose', 'turning', 'rioting', 'related', 'offenses', 'felonies']",neutral
-148,"['america', 'country', 'opportunity', 'anything', 'possible', 'else', 'could', 'little', 'girl', 'raised', 'taiwan', 'parents', 'fled', 'communism', 'grow', 'serve', 'tx', 'lege', 'thank', 'mom', 'dad', 'teaching', 'value', 'freedom', 'd', 'national', 'immigrants', 'day']",positive
 149,"['h', 'b', 'passed', 'chambers', 'improve', 'texas', 'rising', 'star', 'childcare', 'program', 'now', 'opportunity', 'take', 'stock', 'thank', 'helped', 'together', 'mr', 'hulsky', 'clean', 'kind', 'waste']",positive
 150,"['my', 'favorite', 'text', 'week', 'far', 'constituent', 'watching', 'house', 'floor', 'proceedings', 'wife']",positive
 151,"['can', 'confirm', 'lost', 'money', 'trades', 'a', 'total', 'made']",negative
@@ -158,11 +133,7 @@
 156,"['my', 'statement', 'rep', 'gabbard', ""'s"", 'hateful', 'piece', 'legislation']",negative
 157,"['a', 'o', 'c', 'exactly', 'right', 'it', 'outrage', 'minnesotans', 'care', 'adult', 'dependents', 'children', 'older', 'getting', 'shortchanged', 'i', 'led', 'charge', 'correct', 'oversight', 'back', 'may', 'administrator', 'refused', 'cooperate', 'the', 'american', 'people', 'deserve', 'explanation']",negative
 158,"['we', 'also', 'told', 'reason', 'adult', 'dependents', 'people', 'disabilities', 'college', 'students', 'etc', 'left', 'survival', 'checks', 'abuse', 'trump', 'wants', 'checks', 'soon', 'possible', 'said', 'including', 'adult', 'dependents', 'would', 'slow', 'flat', 'refused', 'excuse', 'make', 'sense']",negative
-159,"['my', 'favorite', 'text', 'week', 'far', 'constituent', 'watching', 'house', 'floor', 'proceedings', 'wife']",positive
-160,"['the', 'president', 'serve', 'another', 'day', 'office', 'i', 'encourage', 'members', 'cabinet', 'invoke', 'th', 'amendment', 'remove', 'we', 'must', 'defend', 'nation', 'preserve', 'democracy']",negative
-161,"['marjorie', 'taylor', 'greene', 'says', 'adopted', 'parents', 'marriage', 'real', 'parents', 'biological', 'she', 'told', 'witness', 'mother', 'marriage', 'mother']",negative
 162,"['i', 'idea', 'tired', 'take', 'time', 'get', 'right', 'there', 'people', 'across', 'maine', 'working', 'two', 'shifts', 'keep', 'going', 'order', 'collect', 'evidence', 'need', 'uphold', 'oaths', 'give', 'break']",negative
-163,"['i', 'idea', 'tired', 'take', 'time', 'get', 'right', 'there', 'people', 'across', 'maine', 'working', 'two', 'shifts', 'keep', 'going', 'order', 'collect', 'evidence', 'need', 'uphold', 'oaths', 'give', 'break']",negative
 164,"['we', 'ready', 's', 'o', 't', 'you', 'send', 'powerful', 'message', 'donald', 'trump', 'put', 'american', 'people', 'first', 'fight', 'support', 'hardworking', 'families', 'across', 'country']",positive
 165,"['denouncing', 'politics', 'hate', 'division', 'womens', 'march']",negative
 166,"['i', 'birthing', 'person', 'five', 'boys', 'i', 'mother', 'sacrifice', 'joy', 'commitment', 'hardship', 'love', 'comes', 'the', 'biden', 'administration', 'diminishing', 'motherhood', 'nothing', 'person', 'simply', 'insulting', 'moms']",neutral
@@ -205,7 +176,6 @@
 203,"['in', 'mostly', 'latino', 'caucus', 'site', 'voters', 'wins', 'vote', 'here', 'sanders', 'precinct', 'captain', 'going', 'process', 'selecting', 'delegates', 'campaign', 'earned', 'big', 'win', 'so', 'debate', 'today', 'meaningless']",positive
 204,"['in', 'you', 'c', 'system', 'tuition', 'annual', 'fee', 'one', 'finest', 'educations', 'world', 'many', 'benefited', 'helped', 'make', 'california', 'major', 'economic', 'force', 'that', 'free', 'public', 'education', 'it', 'investment', 'students', 'economy']",positive
 205,"['j', 'p']",positive
-206,"['j', 'p']",positive
 207,"['in', 'case', 'thought', 'confederate', 'statues', 'i', 'd', 'via']",neutral
 208,['farright'],neutral
 209,"['canadians', 'shocked', 'news', 'horrific', 'attack', 'manchester', 'tonight', 'please', 'keep', 'victims', 'families', 'thoughts']",negative
@@ -216,15 +186,9 @@
 214,"['public', 'transit', 'free']",neutral
 215,"['move', 'mitch', 'get', 'way']",neutral
 216,"['let', 'drop', 'alopecia', 'selfie', 'flex', 'ya', ""'ll"", 'stay', 'mad', 'timeline', 'i', 'get', 'who', 'needs', 'hair', 'cheekbones', 'folks', 'want', 'know', 'bathroom', 'i', 'use', 'obviously', 'one', 'royalty', 'enters', 'sold', 'elopecio', 'squad', 'million', 'strong', 'alopecia', 'awareness', 'month']",neutral
-217,"['student', 'debt', 'cancellation', 'racial', 'justice', 'issue']",negative
-218,"['public', 'transit', 'free']",neutral
-219,"['move', 'mitch', 'get', 'way']",neutral
 220,"['kobe', 'legend', 'court', 'getting', 'started', 'would', 'meaningful', 'second', 'act', 'lose', 'gianna', 'even', 'heartbreaking', 'us', 'parents', 'michelle', 'i', 'send', 'love', 'prayers', 'vanessa', 'entire', 'bryant', 'family', 'unthinkable', 'day']",neutral
-221,"['kobe', 'legend', 'court', 'getting', 'started', 'would', 'meaningful', 'second', 'act', 'lose', 'gianna', 'even', 'heartbreaking', 'us', 'parents', 'michelle', 'i', 'send', 'love', 'prayers', 'vanessa', 'entire', 'bryant', 'family', 'unthinkable', 'day']",neutral
 222,"['congratulations', 'friend', 'president', 'joe', 'biden', 'this', 'time']",positive
 223,"['in', 'every', 'scene', 'star', 'michelle', 'obama', 'happy', 'birthday', 'baby']",positive
-224,"['kobe', 'legend', 'court', 'getting', 'started', 'would', 'meaningful', 'second', 'act', 'lose', 'gianna', 'even', 'heartbreaking', 'us', 'parents', 'michelle', 'i', 'send', 'love', 'prayers', 'vanessa', 'entire', 'bryant', 'family', 'unthinkable', 'day']",neutral
-225,"['kobe', 'legend', 'court', 'getting', 'started', 'would', 'meaningful', 'second', 'act', 'lose', 'gianna', 'even', 'heartbreaking', 'us', 'parents', 'michelle', 'i', 'send', 'love', 'prayers', 'vanessa', 'entire', 'bryant', 'family', 'unthinkable', 'day']",neutral
 226,"['reminder', 'a', 'c', 'o', 'v', 'i', 'd', 'relief', 'bill', 'sitting', 'mitch', 'mc', 'connell', 'desk', 'days', 'millions', 'struggle', 'keep', 'food', 'table']",negative
 227,"['first', 'day', 'new', 'era']",positive
 228,"['health', 'insurance', 'tied', 'employment', 'period']",negative
@@ -244,45 +208,13 @@
 242,"['not', 'sure', 'fully', 'awake', 'maybe', 'meant', 'reclaim', 'time', 'back', 'sleep', 'twitter', 'comspan', 'status']",neutral
 243,"['it', 'nice', 'back', 'sky', 'without', 'unnecessary', 'face', 'mask', 'no', 'masks']",positive
 244,"['congratulations', 'next', 'president', 'united', 'states', 'donald', 'trump', 'we', 'people']",positive
-245,"['silencing', 'significant', 'number', 'voters', 'erasing', 'history', 'way', 'unite', 'us', 'it', 'divides', 'big', 'tech', 'social', 'media', 'platforms', 'we', 'want', 'act', 'like', 'media', 'organs', 'want', 'held', 'accountable', 'rest', 'media', 'speech']",negative
-246,['istanbul'],negative
-247,"['not', 'sure', 'fully', 'awake', 'maybe', 'meant', 'reclaim', 'time', 'back', 'sleep', 'twitter', 'comspan', 'status']",neutral
-248,"['it', 'nice', 'back', 'sky', 'without', 'unnecessary', 'face', 'mask', 'no', 'masks']",positive
-249,"['congratulations', 'next', 'president', 'united', 'states', 'donald', 'trump', 'we', 'people']",positive
-250,"['silencing', 'significant', 'number', 'voters', 'erasing', 'history', 'way', 'unite', 'us', 'it', 'divides', 'big', 'tech', 'social', 'media', 'platforms', 'we', 'want', 'act', 'like', 'media', 'organs', 'want', 'held', 'accountable', 'rest', 'media', 'speech']",negative
-251,['istanbul'],negative
-252,"['not', 'sure', 'fully', 'awake', 'maybe', 'meant', 'reclaim', 'time', 'back', 'sleep', 'twitter', 'comspan', 'status']",neutral
-253,"['it', 'nice', 'back', 'sky', 'without', 'unnecessary', 'face', 'mask', 'no', 'masks']",positive
-254,"['congratulations', 'next', 'president', 'united', 'states', 'donald', 'trump', 'we', 'people']",positive
-255,"['silencing', 'significant', 'number', 'voters', 'erasing', 'history', 'way', 'unite', 'us', 'it', 'divides', 'big', 'tech', 'social', 'media', 'platforms', 'we', 'want', 'act', 'like', 'media', 'organs', 'want', 'held', 'accountable', 'rest', 'media', 'speech']",negative
-256,['istanbul'],negative
-257,"['not', 'sure', 'fully', 'awake', 'maybe', 'meant', 'reclaim', 'time', 'back', 'sleep', 'twitter', 'comspan', 'status']",neutral
-258,"['it', 'nice', 'back', 'sky', 'without', 'unnecessary', 'face', 'mask', 'no', 'masks']",positive
-259,"['congratulations', 'next', 'president', 'united', 'states', 'donald', 'trump', 'we', 'people']",positive
 260,"['today', 'i', 'p', 'r', 'o', 'you', 'd', 'y', 'stand', 'friend', 'donald', 'trump', 'the', 'american', 'people', 'appalled', 'case', 'political', 'persecution', 'outraged', 'current', 'state', 'judicial', 'system', 'join', 'praying', 'future', 'nation']",positive
 261,"['happy', 'th', 'wedding', 'anniversary', 'beautiful', 'wife', 'candy', 'i', 'blessed', 'marry', 'loving', 'mother', 'grandmother', 'patriot', 'cheers', 'many']",positive
-262,"['silencing', 'significant', 'number', 'voters', 'erasing', 'history', 'way', 'unite', 'us', 'it', 'divides', 'big', 'tech', 'social', 'media', 'platforms', 'we', 'want', 'act', 'like', 'media', 'organs', 'want', 'held', 'accountable', 'rest', 'media', 'speech']",negative
-263,['istanbul'],negative
-264,"['not', 'sure', 'fully', 'awake', 'maybe', 'meant', 'reclaim', 'time', 'back', 'sleep', 'twitter', 'comspan', 'status']",neutral
 265,"['it', 'disheartening', 'see', 'country', 'still', 'believe', 'african', 'americans', 'beholden', 'one', 'political', 'ideology', 'birth', 'due', 'color', 'skin']",negative
 266,"['i', 'know', 'donald', 'trump', 'he', 'good', 'caring', 'man', 'someone', 'puts', 'country', ""'s"", 'trust', 'god', 'he', 'understands', 'rights', 'every', 'american', 'come', 'creator']",positive
 267,"['i', 'know', 'president', 'donald', 'trump', 'he', 'cares', 'military', 'veterans', 'especially', 'paid', 'ultimate', 'sacrifice', 'freedom', 'this', 'atlantic', 'tuna', 'treaty', 'iuna', 'another', 'anonymous', 'attempt', 'media', 'pontificate', 'manipulate', 'americans', 'know', 'better']",neutral
 268,"['president', 'donald', 'trump', 'support', 'vulnerable', 'americans', 'exemplifies', 'decisive', 'leadership', 'needed', 'time', 'national', 'crisis', 'thank', 'mr', 'president', 'putting', 'american', 'people', 'first']",positive
 269,"['happy', 'birthday', 'beautiful', 'wife', 'candy', 'thank', 'amazing', 'mother', 'grandmother', 'importantly', 'best', 'friend', 'i', 'prayed', 'wife', 'many', 'years', 'ago', 'god', 'blessed', 'one', 'greatest', 'gifts', 'i', 'ever', 'received']",positive
-270,"['it', 'nice', 'back', 'sky', 'without', 'unnecessary', 'face', 'mask', 'no', 'masks']",positive
-271,"['congratulations', 'next', 'president', 'united', 'states', 'donald', 'trump', 'we', 'people']",positive
-272,"['silencing', 'significant', 'number', 'voters', 'erasing', 'history', 'way', 'unite', 'us', 'it', 'divides', 'big', 'tech', 'social', 'media', 'platforms', 'we', 'want', 'act', 'like', 'media', 'organs', 'want', 'held', 'accountable', 'rest', 'media', 'speech']",negative
-273,['istanbul'],negative
-274,"['not', 'sure', 'fully', 'awake', 'maybe', 'meant', 'reclaim', 'time', 'back', 'sleep', 'twitter', 'comspan', 'status']",neutral
-275,"['it', 'disheartening', 'see', 'country', 'still', 'believe', 'african', 'americans', 'beholden', 'one', 'political', 'ideology', 'birth', 'due', 'color', 'skin']",negative
-276,"['i', 'know', 'donald', 'trump', 'he', 'good', 'caring', 'man', 'someone', 'puts', 'country', ""'s"", 'trust', 'god', 'he', 'understands', 'rights', 'every', 'american', 'come', 'creator']",positive
-277,"['i', 'know', 'president', 'donald', 'trump', 'he', 'cares', 'military', 'veterans', 'especially', 'paid', 'ultimate', 'sacrifice', 'freedom', 'this', 'atlantic', 'tuna', 'treaty', 'iuna', 'another', 'anonymous', 'attempt', 'media', 'pontificate', 'manipulate', 'americans', 'know', 'better']",neutral
-278,"['president', 'donald', 'trump', 'support', 'vulnerable', 'americans', 'exemplifies', 'decisive', 'leadership', 'needed', 'time', 'national', 'crisis', 'thank', 'mr', 'president', 'putting', 'american', 'people', 'first']",positive
-279,"['happy', 'birthday', 'beautiful', 'wife', 'candy', 'thank', 'amazing', 'mother', 'grandmother', 'importantly', 'best', 'friend', 'i', 'prayed', 'wife', 'many', 'years', 'ago', 'god', 'blessed', 'one', 'greatest', 'gifts', 'i', 'ever', 'received']",positive
-280,"['it', 'nice', 'back', 'sky', 'without', 'unnecessary', 'face', 'mask', 'no', 'masks']",positive
-281,"['congratulations', 'next', 'president', 'united', 'states', 'donald', 'trump', 'we', 'people']",positive
-282,"['today', 'i', 'p', 'r', 'o', 'you', 'd', 'y', 'stand', 'friend', 'donald', 'trump', 'the', 'american', 'people', 'appalled', 'case', 'political', 'persecution', 'outraged', 'current', 'state', 'judicial', 'system', 'join', 'praying', 'future', 'nation']",positive
-283,"['happy', 'th', 'wedding', 'anniversary', 'beautiful', 'wife', 'candy', 'i', 'blessed', 'marry', 'loving', 'mother', 'grandmother', 'patriot', 'cheers', 'many']",positive
 284,"['why', 'i', 'will', 'not', 'participate', 'project', 'overturn', 'election', 'senator', 'sasse', 'posts']",negative
 285,"['every', 'american', 'cares', 'rule', 'law', 'take', 'comfort', 'supreme', 'court', 'including', 'three', 'president', 'trump', 'picks', 'closed', 'book', 'nonsense']",neutral
 286,"['today', 'i', 'celebrate', 'another', 'year', 'life', 'i', 'grateful', 'god', 'blessed', 'see', 'another', 'year', 'family', 'friends', 'thank', 'advance', 'birthday', 'wishes']",positive
@@ -291,10 +223,6 @@
 289,"['donald', 'trump', 'believes', 'climate', 'change', 'hoax', 'donald', 'trump', 'idiot']",negative
 290,"['militia', 'district']",negative
 291,"['wow', 'crazy', 'bernie', 'sanders', 'surging', 'polls', 'looking', 'good', 'opponents', 'do', 'nothing', 'part', 'so', 'mean', 'stay', 'tuned']",positive
-292,"['i', 'asking', 'wear', 'mask']",neutral
-293,"['donald', 'trump', 'believes', 'climate', 'change', 'hoax', 'donald', 'trump', 'idiot']",negative
-294,"['militia', 'district']",negative
-295,"['wow', 'crazy', 'bernie', 'sanders', 'surging', 'polls', 'looking', 'good', 'opponents', 'do', 'nothing', 'part', 'so', 'mean', 'stay', 'tuned']",positive
 296,"['some', 'people', 'ask', 'would', 'impeach', 'convict', 'president', 'days', 'left', 'office', 'the', 'answer', 'precinct']",negative
 297,"['let', 'us', 'go', 'forward', 'together', 'struggle', 'continues']",neutral
 298,"['trump', 'peaceful', 'demonstrators', 'viciously', 'attacked', 'no', 'mr', 'president', 'dictatorship', 'this', 'united', 'states', 'america', 'our', 'citizens', 'constitutional', 'right', 'peacefully', 'protest', 'it', 'called', 'first', 'amendment']",negative
@@ -302,26 +230,6 @@
 300,"['ready', 'fight', 'medicare', 'for', 'all', 'you', 'r', 'z', 'p']",neutral
 301,"['as', 'far']",neutral
 302,"['bernie', 'going']",positive
-303,"['i', 'asking', 'wear', 'mask']",neutral
-304,"['donald', 'trump', 'believes', 'climate', 'change', 'hoax', 'donald', 'trump', 'idiot']",negative
-305,"['militia', 'district']",negative
-306,"['wow', 'crazy', 'bernie', 'sanders', 'surging', 'polls', 'looking', 'good', 'opponents', 'do', 'nothing', 'part', 'so', 'mean', 'stay', 'tuned']",positive
-307,"['some', 'people', 'ask', 'would', 'impeach', 'convict', 'president', 'days', 'left', 'office', 'the', 'answer', 'precinct']",negative
-308,"['let', 'us', 'go', 'forward', 'together', 'struggle', 'continues']",neutral
-309,"['trump', 'peaceful', 'demonstrators', 'viciously', 'attacked', 'no', 'mr', 'president', 'dictatorship', 'this', 'united', 'states', 'america', 'our', 'citizens', 'constitutional', 'right', 'peacefully', 'protest', 'it', 'called', 'first', 'amendment']",negative
-310,['covid'],neutral
-311,"['i', 'asking', 'wear', 'mask']",neutral
-312,"['donald', 'trump', 'believes', 'climate', 'change', 'hoax', 'donald', 'trump', 'idiot']",negative
-313,"['militia', 'district']",negative
-314,"['wow', 'crazy', 'bernie', 'sanders', 'surging', 'polls', 'looking', 'good', 'opponents', 'do', 'nothing', 'part', 'so', 'mean', 'stay', 'tuned']",positive
-315,"['i', 'asking', 'wear', 'mask']",neutral
-316,"['donald', 'trump', 'believes', 'climate', 'change', 'hoax', 'donald', 'trump', 'idiot']",negative
-317,"['militia', 'district']",negative
-318,"['wow', 'crazy', 'bernie', 'sanders', 'surging', 'polls', 'looking', 'good', 'opponents', 'do', 'nothing', 'part', 'so', 'mean', 'stay', 'tuned']",positive
-319,"['i', 'asking', 'wear', 'mask']",neutral
-320,"['donald', 'trump', 'believes', 'climate', 'change', 'hoax', 'donald', 'trump', 'idiot']",negative
-321,"['militia', 'district']",negative
-322,"['wow', 'crazy', 'bernie', 'sanders', 'surging', 'polls', 'looking', 'good', 'opponents', 'do', 'nothing', 'part', 'so', 'mean', 'stay', 'tuned']",positive
 323,"['heading', 'people', 'house', 'pelosi', 'house']",neutral
 324,"['so', 'honored', 'president', 'trump', 'today', 'a', 'true', 'american', 'leader', 'cares', 'success', 'stronger', 'future', 'families', 'join', 'euro', 'area']",positive
 325,"['governor', 'abbott', 'if', 'decency', 'immediately', 'withdraw', 'weekend', 'n', 'r', 'a', 'convention', 'urge', 'hold', 'anywhere', 'texas']",negative
@@ -331,18 +239,12 @@
 329,"['beto', 'phony', 'name', 'indicate', 'hispanic', 'heritage', 'o', 'rourke', 'embarrassed', 'last', 'visit', 'great', 'state', 'texas', 'i', 'trounced', 'even', 'embarrassed', 'polling', 'democrat', 'primary']",negative
 330,"['this', 'her', 'name', 'gina', 'daughter', ""'s"", 'name', 'summer', 'the', 'problem', 'economy', 'live', 'car', 'disgraced', 't']",negative
 331,"['beto', 'says', 'met', 'woman', 'working', 'f', 'o', 'you', 'jobs', 'raising', 'special', 'needs', 'child', 'i', 'believe', 'sorry']",negative
-332,"['governor', 'abbott', 'if', 'decency', 'immediately', 'withdraw', 'weekend', 'n', 'r', 'a', 'convention', 'urge', 'hold', 'anywhere', 'texas']",negative
-333,"['we', 'want', 'say', 'thank', 'everyone', 'made', 'possible', 'everyone', 'made', 'us', 'feel', 'hopeful', 'everyone', 'inspired', 'us', 'everyone', 'became', 'amazing', 'campaign', 'could', 'ever', 'hoped', 'belong', 'grateful', 'got', 'we', 'love', 'goodnight']",positive
 334,"['you', 'misspelled', 'parents']",negative
 335,"['educators', 'love', 'students', 'know', 'better', 'anyone', 'need', 'learn', 'thrive']",positive
 336,"['i', 'appreciate', 'senate', ""'s"", 'diligence', 'honored', 'serve', 'secretary', 'let', 'us', 'improve', 'options', 'outcomes', 'you', 's', 'students']",positive
-337,"['you', 'misspelled', 'parents']",negative
-338,"['educators', 'love', 'students', 'know', 'better', 'anyone', 'need', 'learn', 'thrive']",positive
-339,"['i', 'appreciate', 'senate', ""'s"", 'diligence', 'honored', 'serve', 'secretary', 'let', 'us', 'improve', 'options', 'outcomes', 'you', 's', 'students']",positive
 340,"['the', 'white', 'house', 'coronavirus', 'task', 'force', 'donald', 'trump', 'announced', 'new', 'guidelines', 'every', 'american', 'follow', 'save', 'lives', 'reduce', 'impact', 'coronavirus', 'outbreak', 'we', 'must', 'part', 'limit', 'spread', 'virus']",neutral
 341,"['as', 'doctor', 'ran', 'vaccine', 'programs', 'decrease', 'spread', 'disease', 'donald', 'trump', 'necessary', 'protect', 'americans', 'coronavirus', 'democrats', 'attacks', 'unfounded', 'aimed', 'stoking', 'fear', 'political', 'gain']",neutral
 342,"['based', 'allegations', 'roy', 'moore', 'response', 'known', 'i', 'withdraw', 'support']",negative
-343,"['the', 'white', 'house', 'coronavirus', 'task', 'force', 'donald', 'trump', 'announced', 'new', 'guidelines', 'every', 'american', 'follow', 'save', 'lives', 'reduce', 'impact', 'coronavirus', 'outbreak', 'we', 'must', 'part', 'limit', 'spread', 'virus']",neutral
 344,"['this', 'young', 'man', 'given', 'honor', 'represent', 'y', 'o', 'you', 's', 'world', 'stage', 'instead', 'chose', 'put', 'identity', 'politics', 'pride', 'country', 'i', 'heard', 'enough', 'we', 'must', 'honor', 'flag', 'pay', 'respect', 'sacrificed', 'rights']",negative
 345,"['hardworking', 'parents', 'deserve', 'flexibility', 'spend', 'time', 'newborn', 'children', 'without', 'suffering', 'financial', 'hardships', 'time', 'missed', 'work', 'that', 'i', 'fighting', 'i', 'proud', 'helped', 'ensure', 'get', 'way']",positive
 346,"['even', 'protect', 'free', 'speech', 'assembly', 'must', 'condemn', 'hatred', 'violence', 'white', 'supremacy', 'charlottesville']",negative
@@ -357,21 +259,12 @@
 355,"['a', 'widely', 'available', 'vaccine', 'changes', 'everything', 'new', 'season', 'tennessee', 'i', 'renewing', 'public', 'health', 'orders', 'c', 'o', 'v', 'i', 'd', 'longer', 'health', 'emergency', 'state']",neutral
 356,"['thank', 'tennessee']",positive
 357,"['we', 'expect', 'highest', 'standards', 'public', 'institutions', 'the', 'special', 'chosen', 'lead', 'within', 'institutions', 'demonstrated', 'history', 'integrity', 'character', 'i', 'hope', 'today', 'i', 'mean', 'tomorrow', 'discussions', 'continue']",neutral
-358,"['a', 'widely', 'available', 'vaccine', 'changes', 'everything', 'new', 'season', 'tennessee', 'i', 'renewing', 'public', 'health', 'orders', 'c', 'o', 'v', 'i', 'd', 'longer', 'health', 'emergency', 'state']",neutral
-359,"['thank', 'tennessee']",positive
-360,"['we', 'expect', 'highest', 'standards', 'public', 'institutions', 'the', 'special', 'chosen', 'lead', 'within', 'institutions', 'demonstrated', 'history', 'integrity', 'character', 'i', 'hope', 'today', 'i', 'mean', 'tomorrow', 'discussions', 'continue']",neutral
 361,"['i', 'vote', 'no', 'judge', 'kavanaugh']",negative
 362,"['senate', 'republicans', 'voted', 'amendment', 'make', 'modest', 'middle', 'class', 'tax', 'cuts', 'permanent', 'instead', 'tax', 'increase', 'years', 'proof', 'g', 'o', 'p', 'tax', 'bill', 'never', 'helping', 'middle', 'class']",negative
 363,"['congrats', 'space', 'x', 'starship', 'first', 'integrated', 'flight', 'test', 'every', 'great', 'achievement', 'throughout', 'history', 'demanded', 'level', 'calculated', 'risk', 'great', 'risk', 'comes', 'great', 'reward', 'looking', 'forward', 'europe', 'x', 'learns', 'next', 'flight', 'test', 'beyond']",positive
 364,"['liftoff', 'starship']",neutral
-365,"['i', 'vote', 'no', 'judge', 'kavanaugh']",negative
-366,"['senate', 'republicans', 'voted', 'amendment', 'make', 'modest', 'middle', 'class', 'tax', 'cuts', 'permanent', 'instead', 'tax', 'increase', 'years', 'proof', 'g', 'o', 'p', 'tax', 'bill', 'never', 'helping', 'middle', 'class']",negative
-367,"['congrats', 'space', 'x', 'starship', 'first', 'integrated', 'flight', 'test', 'every', 'great', 'achievement', 'throughout', 'history', 'demanded', 'level', 'calculated', 'risk', 'great', 'risk', 'comes', 'great', 'reward', 'looking', 'forward', 'europe', 'x', 'learns', 'next', 'flight', 'test', 'beyond']",positive
-368,"['liftoff', 'starship']",neutral
 369,"['today', 'i', 'calling', 'house', 'leaders', 'refuse', 'seat', 'members', 'trying', 'overturn', 'election', 'make', 'donald', 'trump', 'unelected', 'dictator']",negative
 370,"['tonight', 'i', 'calling', 'eventual', 'prosecution', 'donald', 'trump', 'enablers', 'many', 'crimes', 'united', 'states']",negative
-371,"['today', 'i', 'calling', 'house', 'leaders', 'refuse', 'seat', 'members', 'trying', 'overturn', 'election', 'make', 'donald', 'trump', 'unelected', 'dictator']",negative
-372,"['tonight', 'i', 'calling', 'eventual', 'prosecution', 'donald', 'trump', 'enablers', 'many', 'crimes', 'united', 'states']",negative
 373,"['terrorists', 'ransacked', 'you', 's', 'capitol', 'hours', 'later', 'house', 'republicans', 'voted', 'make', 'trump', 'dictator', 'nothing', 'say', 'sexuality', 'interviews', 'they', 'tried', 'finish', 'rioters', 'job', 'end', 'democracy']",negative
 374,"['well', 'ayanna', 'pressley', 'a', 'o', 'c', 'rep', 'rashida', 'ilhan', 'm', 'n']",neutral
 375,"['year', 'old', 'new', 'jersey', 'congressman', 'bill', 'pascrell', 'quietly', 'asks', 'ilhan', 'omar', 'if', 'he', 'can', 'be', 'part', 'of', 'squad', 'vn', 'x', 'a', 'j', 'b']",neutral
@@ -391,7 +284,6 @@
 389,"['donald', 'trump', 'first', 'president', 'modern', 'history', 'start', 'new', 'war']",neutral
 390,"['i', 'strongly', 'support', 'colleague', 'matt', 'gaetz', 'raheem', 'kassam']",positive
 391,"['like', 'democratic', 'colleagues', 'i', 'young', 'immigrant', 'family', 'also', 'critical', 'trump', 'funny', 'thing', 'though', 'never', 'tells', 'go', 'back', 'i', 'come', 'but', 'i', 'wonder']",negative
-392,"['so', 'interesting', 'see', 'progressive', 'democrat', 'congresswomen', 'originally', 'came', 'countries', 'whose', 'governments', 'complete', 'total', 'catastrophe', 'worst', 'corrupt', 'inept', 'anywhere', 'world', 'even', 'functioning', 'government', 'loudly']",negative
 393,"['dear', 'just', 'stop', 'you', 'know', 'better', 'i', 'know', 'know', 'better', 'it', 'fucking', 'game', 'a', 'total', 'made']",negative
 394,"['tonight', 'i', 'called', 'speaker', 'pelosi', 'bring', 'born', 'alive', 'act', 'floor', 'vote', 'th', 'time', 'declined', 'it', 'horrific', 'refuse', 'medical', 'care', 'babies', 'survived', 'attempted', 'abortions', 'we', 'you', 's']",negative
 395,"['i', 'bernie', 'sanders']",neutral
@@ -418,20 +310,14 @@
 416,"['as', 'i', 'told', 'president', 'morning', 'i', 'publicly', 'called', 'signature', 'audit', 'three', 'times', 'th', 'th', 'th', 'th', 'restore', 'confidence', 'election', 'process', 'ensure', 'legal', 'votes', 'counted', 'georgia']",neutral
 417,"['i', 'easily', 'quickly', 'win', 'georgia', 'governor', 'brian', 'kemp', 'g', 'a', 'secretary', 'state', 'permit', 'simple', 'signature', 'verification', 'done', 'show', 'large', 'scale', 'discrepancies', 'why', 'two', 'republicans', 'saying', 'no', 'if', 'win', 'georgia', 'everything', 'else', 'falls', 'place']",neutral
 418,"['i', 'lost', 'two', 'legs', 'right', 'say', 'whatever', 'hell', 'wants', 'free', 'speech', 'also', 'protects', 'republicans', 'he', 'eager', 'condemn', 'asking', 'constitutional', 'questions', 'election']",negative
-419,"['i', 'lost', 'two', 'legs', 'right', 'say', 'whatever', 'hell', 'wants', 'free', 'speech', 'also', 'protects', 'republicans', 'he', 'eager', 'condemn', 'asking', 'constitutional', 'questions', 'election']",negative
 420,['istanbul'],negative
 421,"['congressman', 'brian', 'mast', 'f', 'l', 'walking', 'protesters', 'leaving', 'trump', 'r', 'n', 'c', 'speech', 'mob', 'confronts']",neutral
 422,"['i', 'lost', 'legs', 'finger', 'fighting', 'country', 'battlefield', 'people', 'like', 'jake', 'tapper', 'say', 'whatever', 'want', 'i', 'certainly', 'lose', 'legs', 'silence', 'whoever', 'want', 'i', 'talked', 'sean', 'hannity', 'double', 'standard', 'but', 'children', 'different', 'story']",negative
-423,['istanbul'],negative
-424,"['congressman', 'brian', 'mast', 'f', 'l', 'walking', 'protesters', 'leaving', 'trump', 'r', 'n', 'c', 'speech', 'mob', 'confronts']",neutral
-425,"['i', 'lost', 'legs', 'finger', 'fighting', 'country', 'battlefield', 'people', 'like', 'jake', 'tapper', 'say', 'whatever', 'want', 'i', 'certainly', 'lose', 'legs', 'silence', 'whoever', 'want', 'i', 'talked', 'sean', 'hannity', 'double', 'standard', 'but', 'children', 'different', 'story']",negative
 426,"['i', 'assembly', 'sponsor', 'early', 'voting', 'n', 'y', 'dem', 'colleagues', 'i', 'passed', 'i', 'senate', 'sponsor', 'we', 'pushed', 'republicans', 'pass', 'refuse', 'with', 'budget', 'surplus', 'enact', 'reforms', 'registration', 'absentee', 'ballots', 'key', 'items']",positive
 427,"['happy', 'announce', 'i', 'adding', 'weekly', 'update', 'twitter', 'well', 'please', 'take', 'moment', 'watch', 'important', 'video', 'thoughts']",positive
 428,"['enjoying', 'lunch', 'one', 'union', 'city', 'popular', 'restaurants', 'el', 'artesano', 'north', 'bergenline', 'ave', 'i', 'urge', 'everyone', 'please', 'support', 'local', 'businesses', 'fight', 'unsafe', 'toys']",positive
 429,"['i', 'voting', ""'no"", 'mike', 'pompeo', 'nomination', 'secretary', 'state', 'diplomats', 'believe', 'diplomacy', 'america', 'top', 'diplomat', 'must', 'passionate', 'diplomacymike', 'pompeo', 'demonstrated', 'values', 'diplomacy', 'diplomats', 'state', 'department']",negative
 430,"['i', 'introducing', 'amendment', 'national', 'defense', 'authorization', 'act', 'discontinue', 'program', 'transfers', 'military', 'weaponry', 'local', 'police', 'departments']",neutral
-431,"['i', 'voting', ""'no"", 'mike', 'pompeo', 'nomination', 'secretary', 'state', 'diplomats', 'believe', 'diplomacy', 'america', 'top', 'diplomat', 'must', 'passionate', 'diplomacymike', 'pompeo', 'demonstrated', 'values', 'diplomacy', 'diplomats', 'state', 'department']",negative
-432,"['i', 'introducing', 'amendment', 'national', 'defense', 'authorization', 'act', 'discontinue', 'program', 'transfers', 'military', 'weaponry', 'local', 'police', 'departments']",neutral
 433,"['one', 'good', 'thing', 'joe', 'biden', 'owe', 'anyone', 'million', 'dollars']",positive
 434,"['ok', 'i', 'start', 'i', 'give', 'capitol', 'tours', 'anyone', 'last', 'week']",neutral
 435,"['we', 'specifically', 'instructed', 'protecting', 'us', 'tell', 'anyone', 'including', 'family', 'exactly', 'reasons', 'remain', 'obvious']",neutral
@@ -473,15 +359,12 @@
 471,"['i', 'ecstatic', 'joe', 'biden', 'chosen', 'good', 'friend', 'cousin', ""'s"", 'college', 'roommate', 'kamala', 'harris', 'country', ""'s"", 'next', 'vice', 'president', 'biden', 'harris']",positive
 472,"['congratulations', 'president', 'elect', 'joe', 'biden', 'the', 'core', 'humble', 'empathetic', 'collaborative', 'experienced', 'principled', 'courageous', 'exactly', 'country', 'needs', 'election']",positive
 473,"['we', 'received', 'audio', 'incredibly', 'brave', 'american', 'kabul', 'she', 'attacked', 'time', 'tried', 'reach', 'airport', 'despite', 'danger', 'she', 'wants', 'us', 'share', 'must', 'guarantee', 'safety', 'americans', 'allies', 'late']",neutral
-474,"['we', 'received', 'audio', 'incredibly', 'brave', 'american', 'kabul', 'she', 'attacked', 'time', 'tried', 'reach', 'airport', 'despite', 'danger', 'she', 'wants', 'us', 'share', 'must', 'guarantee', 'safety', 'americans', 'allies', 'late']",neutral
 475,"['zelenskyi', ""'s"", 'claim', 'ukrainians', 'righteous', 'gentiles', 'saved', 'jews', 'holocaust', 'sick', 'historical', 'revisionism', 'the', 'ukrainians', 'active', 'enthusiastic', 'nazis', 'ukrainian', 'jewry', 'annihilated', 'poland', 'ukraine', 'neighbors']",negative
 476,"['welcome', 'fabulous', 'las', 'vegas', 'b', 't', 's', 'a', 'r', 'm', 'y']",positive
 477,"['pray', 'las', 'vegas', 'thank', 'first', 'responders']",positive
 478,"['so', 'allowed', 'call', 'president', 'racist', 'allowed', 'one']",negative
 479,"['senate', 'republicans', 'blocked', 'bill', 'protect', 'women', 'travel', 'reproductive', 'care', 'help', 'they', 'want', 'allow', 'state', 'legislators', 'reach', 'across', 'state', 'lines', 'punish', 'control', 'women', 'it', 'absolutely', 'outrageous', 'i', 'stop', 'fighting', 'women', ""'s"", 'freedom']",negative
 480,"['congratulations', 'selling', 'p', 't', 'd', 'o', 'n', 's', 't', 'a', 'g', 'e', 'e', 's', 'v', 'e', 'g', 'a', 's', 'concert', 'two', 'weeks', 'row', 'allegiant', 'stadium', 'the', 'buitenhof', 'literally', 'outer', 'court', 'located', 'outside', 'binnenhof']",positive
-481,"['senate', 'republicans', 'blocked', 'bill', 'protect', 'women', 'travel', 'reproductive', 'care', 'help', 'they', 'want', 'allow', 'state', 'legislators', 'reach', 'across', 'state', 'lines', 'punish', 'control', 'women', 'it', 'absolutely', 'outrageous', 'i', 'stop', 'fighting', 'women', ""'s"", 'freedom']",negative
-482,"['congratulations', 'selling', 'p', 't', 'd', 'o', 'n', 's', 't', 'a', 'g', 'e', 'e', 's', 'v', 'e', 'g', 'a', 's', 'concert', 'two', 'weeks', 'row', 'allegiant', 'stadium', 'the', 'buitenhof', 'literally', 'outer', 'court', 'located', 'outside', 'binnenhof']",positive
 483,['istanbul'],negative
 484,"['my', 'statement', 'house', 'passage', 'historic', 'tax', 'reform']",neutral
 485,"['stories', 'home', 'i', 'getting', 'times', 'i', 'past', 'year', 'for', 'crumbs', 'it', 'money', 'get', 'food', 'table', 'i', 'happy', 'i', 'wanted', 'tell', 'everybody', 'whole', 'world', 'tax', 'cuts', 'impact', 'quality', 'fuels']",positive
@@ -507,17 +390,12 @@
 505,"['we', 'came', 'say', 'speaking', 'mind', 'matters', 'n', 'l', 'jerry', 'l', 'patterson']",neutral
 506,"['i', 'hard', 'time', 'understanding', 'anyone', 'could', 'watch', 'seen', 'last', 'two', 'days', 'vote', 'convict', 'president', 'trump']",negative
 507,"['i', 'hearing', 'donald', 'trump', 'rudy', 'giuliani', 'claiming', 'collusion', 'crime', 'well', 'i', 'took', 'liberty', 'reading', 'script', 'series', 'pilot']",neutral
-508,"['i', 'hard', 'time', 'understanding', 'anyone', 'could', 'watch', 'seen', 'last', 'two', 'days', 'vote', 'convict', 'president', 'trump']",negative
-509,"['i', 'hearing', 'donald', 'trump', 'rudy', 'giuliani', 'claiming', 'collusion', 'crime', 'well', 'i', 'took', 'liberty', 'reading', 'script', 'series', 'pilot']",neutral
 510,"['the', 'truth']",neutral
 511,"['each', 'year', 'give', 'foreign', 'nations', 'billion', 'aid', 'find', 'billion', 'border', 'wall', 'pathetic']",negative
 512,"['it', 'worth', 'asking', 'spend', 'billion', 'year', 'military', 'get', 'troops', 'helicopters', 'puerto', 'rico']",negative
 513,"['we', 'said', 'yes', 'anna', 'levine', 'she', 'marched', 'washington', 'got', 'law', 'degree', 'beat', 'cancer', 'twice']",positive
 514,"['my', 'guest', 's', 'o', 't', 'you', 'tavion', 'dignard', 'transgender', 'navy', 'veteran', 'the', 'trump', 'administration', 'transgender', 'service', 'ban', 'makes', 'america', 'less', 'safe', 'politicizes', 'military', 'zones', 'all', 'people', 'aboard', 'ukraine', 'international', 'airlines', 'plane', 'died']",positive
 515,"['as', 'someone', 'run', 'small', 'business', 'i', 'could', 'imagine', 'receiving', 'paycheck', 'employees', 'working', 'without', 'pay', 'my', 'first', 'official', 'act', 'member', 'congress', 'reject', 'paycheck', 'congress', 'job', 'government', 'reopening']",negative
-516,"['we', 'said', 'yes', 'anna', 'levine', 'she', 'marched', 'washington', 'got', 'law', 'degree', 'beat', 'cancer', 'twice']",positive
-517,"['my', 'guest', 's', 'o', 't', 'you', 'tavion', 'dignard', 'transgender', 'navy', 'veteran', 'the', 'trump', 'administration', 'transgender', 'service', 'ban', 'makes', 'america', 'less', 'safe', 'politicizes', 'military', 'zones', 'all', 'people', 'aboard', 'ukraine', 'international', 'airlines', 'plane', 'died']",positive
-518,"['as', 'someone', 'run', 'small', 'business', 'i', 'could', 'imagine', 'receiving', 'paycheck', 'employees', 'working', 'without', 'pay', 'my', 'first', 'official', 'act', 'member', 'congress', 'reject', 'paycheck', 'congress', 'job', 'government', 'reopening']",negative
 519,['istanbul'],negative
 520,['istanbul'],negative
 521,"['tonight', 'i', 'voted', 'n', 'o', 'additional', 'c', 'o', 'v', 'i', 'd', 'relief', 'trillion', 'debt', 'scare', 'us', 'i', 'simply', 'support', 'bill', 'crafted', 'without', 'offsets', 'mechanisms', 'address', 'nation', 'spending', 'problem']",negative
@@ -525,13 +403,10 @@
 523,"['this', 'morning', 'i', 'welcoming', 'v', 'p', 'granite', 'state', 'file', 'donald', 'trump', 'person', 'new', 'hampshire', 'way', 'first', 'nation', 'presidential', 'primary']",positive
 524,"['fantastic', 'scottfor', 'florida', 'lindsey', 'graham', 's', 'c', 'granite', 'state', 'today', 'spreading', 'g', 'o', 'p', 'donald', 'trump', 'record', 'success', 'directly', 'voters', 'f', 'i', 't', 'n']",positive
 525,"['wow', 'watching', 'lee', 'parnas', 'interview', 'all', 'i', 'say', 'republican', 'senators', 'refuse', 'support', 'calling', 'fact', 'witnesses', 'relevant', 'documents', 'resign', 'dereliction', 'duty', 'constitution']",negative
-526,"['wow', 'watching', 'lee', 'parnas', 'interview', 'all', 'i', 'say', 'republican', 'senators', 'refuse', 'support', 'calling', 'fact', 'witnesses', 'relevant', 'documents', 'resign', 'dereliction', 'duty', 'constitution']",negative
 527,"['my', 'father', 'welcomed', 'country', 'surviving', 'holocaust', 'animal', 'the', 'people', 'seeking', 'refuge', 'asylum', 'america', 'like', 'animals', 'smart', 'effective', 'border', 'security', 'involve', 'denigrating', 'fellow', 'humans', 'full', 'stop', 'main', 'line']",negative
 528,"['on', 'articles', 'impeachment', 'abuse', 'power', 'obstruction', 'congress', 'i', 'vote', 'impeach', 'president', 'deep', 'reflection', 'i', 'believe', 'right', 'thing', 'nation', 'consistent', 'oath', 'office', 'full', 'statement']",neutral
 529,"['do', 'i', 'look', 'like', 'happiest', 'person', 'world', 'i', 'i', 'found', 'surgery', 'chemo', 'job', 'i', 'cancer', 'free', 'thank', 'love', 'prayers', 'kim', 'i', 'could', 'done', 'without']",positive
 530,"['governor', 'cuomo', 'resign', 'investigation', 'independent', 'the', 'findings', 'incredulous', 'i', 'deeply', 'saddened', 'disgusted', 'findings']",negative
-531,"['do', 'i', 'look', 'like', 'happiest', 'person', 'world', 'i', 'i', 'found', 'surgery', 'chemo', 'job', 'i', 'cancer', 'free', 'thank', 'love', 'prayers', 'kim', 'i', 'could', 'done', 'without']",positive
-532,"['governor', 'cuomo', 'resign', 'investigation', 'independent', 'the', 'findings', 'incredulous', 'i', 'deeply', 'saddened', 'disgusted', 'findings']",negative
 533,"['donald', 'trump', 'please', 'stop', 'injecting', 'crises', 'do', 'try', 'tell', 'governors', 'instead', 'calling', 'calm', 'nation', 'unite', 'you', 'sequestered', 'white', 'house', 'basement', 'silent', 'governors', 'mayors', 'hand', 'actively', 'talks']",negative
 534,"['this', 'president', 'truly', 'getting', 'control', 'talking', 'liberating', 'states', 'using', 'language', 'could', 'well', 'lead', 'rioting', 'no', 'one', 'done', 'undermine', 'constitution', 'destroy', 'country', 'values', 'donald', 'trump']",negative
 535,"['the', 'representatives', 'senators', 'going', 'refuse', 'validate', 'electors', 'states', 'trump', 'lost', 'violating', 'oaths', 'office', 'actively', 'encouraging', 'coup', 'there', 'must', 'legal', 'penalty', 'actions', 'election', 'center']",negative
@@ -555,12 +430,6 @@
 553,"['today', 's', 'b', 'agov', 'announced', 'officially', 'paycheck', 'protection', 'program', 'funds', 'every', 'senate', 'republican', 'ready', 'act', 'today', 'democrats', 'let', 'us', 'help', 'workers', 'small', 'businesses', 'hurt', 'covid', 'even', 'total', 'shutdowns']",negative
 554,"['the', 'n', 'd', 'a', 'f', 'd', 'a', 'vital', 'maintaining', 'expanding', 'y', 'o', 'you', 's', 'national', 'security', 'advantages', 'adversaries', 'miss', 'benefits', 'important', 'contributions', 'fortify', 'national', 'defense', 'protect', 'interests', 'around', 'globe']",positive
 555,['coeur'],positive
-556,"['telehealth', 'valuable', 'tool', 'provide', 'care', 'protect', 'people', 'c', 'o', 'v', 'i', 'd', 'pandemic', 'pleased', 'task', 'force', 'making', 'accessible', 'flatten', 'curve', 'you', 'm', 'm', 'd', 'telecoms']",positive
-557,"['today', 's', 'b', 'agov', 'announced', 'officially', 'paycheck', 'protection', 'program', 'funds', 'every', 'senate', 'republican', 'ready', 'act', 'today', 'democrats', 'let', 'us', 'help', 'workers', 'small', 'businesses', 'hurt', 'covid', 'even', 'total', 'shutdowns']",negative
-558,"['telehealth', 'valuable', 'tool', 'provide', 'care', 'protect', 'people', 'c', 'o', 'v', 'i', 'd', 'pandemic', 'pleased', 'task', 'force', 'making', 'accessible', 'flatten', 'curve', 'you', 'm', 'm', 'd', 'telecoms']",positive
-559,"['today', 's', 'b', 'agov', 'announced', 'officially', 'paycheck', 'protection', 'program', 'funds', 'every', 'senate', 'republican', 'ready', 'act', 'today', 'democrats', 'let', 'us', 'help', 'workers', 'small', 'businesses', 'hurt', 'covid', 'even', 'total', 'shutdowns']",negative
-560,"['telehealth', 'valuable', 'tool', 'provide', 'care', 'protect', 'people', 'c', 'o', 'v', 'i', 'd', 'pandemic', 'pleased', 'task', 'force', 'making', 'accessible', 'flatten', 'curve', 'you', 'm', 'm', 'd', 'telecoms']",positive
-561,"['today', 's', 'b', 'agov', 'announced', 'officially', 'paycheck', 'protection', 'program', 'funds', 'every', 'senate', 'republican', 'ready', 'act', 'today', 'democrats', 'let', 'us', 'help', 'workers', 'small', 'businesses', 'hurt', 'covid', 'even', 'total', 'shutdowns']",negative
 562,"['my', 'husband', 'john', 'lived', 'code', 'country', 'first', 'we', 'republicans', 'americans', 'foremost', 'there', 'one', 'candidate', 'race', 'stands', 'values', 'nation', 'joe', 'biden']",neutral
 563,"['my', 'heart', 'broken', 'i', 'lucky', 'lived', 'adventure', 'loving', 'incredible', 'man', 'years', 'he', 'passed', 'way', 'lived', 'terms', 'surrounded', 'people', 'loved', 'place', 'loved', 'best']",positive
 564,"['it', 'high', 'honor', 'included', 'group', 'arizonans', 'served', 'state', 'nation', 'well', 'like', 'late', 'husband', 'john', 'censured', 'a', 'z', 'g', 'o', 'p', 'i', 'wear', 'badge', 'honor']",positive
@@ -570,12 +439,9 @@
 568,"['the', 'fastest', 'growing', 'career', 'field', 'america', 'victimhood']",neutral
 569,"['j', 'p']",negative
 570,"['this', 'morning', 'i', 'spoke', 'c', 'e', 'o', 'vista', 'energy', 'north', 'texas', 'based', 'energy', 'company', 'shared', 'troubling', 'account', 'state', 'e', 'r', 'c', 'o', 't', 's', 'response', 'leading', 'week', 'storm']",negative
-571,"['this', 'morning', 'i', 'spoke', 'c', 'e', 'o', 'vista', 'energy', 'north', 'texas', 'based', 'energy', 'company', 'shared', 'troubling', 'account', 'state', 'e', 'r', 'c', 'o', 't', 's', 'response', 'leading', 'week', 'storm']",negative
 572,"['congratulations', 'president', 'elect', 'joe', 'biden', 'vice', 'president', 'elect', 'kamala', 'harris', 'american', 'people', 'voted', 'record', 'numbers', 'showing', 'strength', 'vibrancy', 'democracy']",positive
 573,"['i', 'pleased', 'announce', 'i', 'accepted', 'role', 'director', 'hoover', 'institute', 'stanford', 'it', 'honor', 'lead', 'historic', 'institution', 'second', 'century']",positive
 574,"['what', 'mean', 'boo', 'black', 'congresswoman', 'denouncing', 'white', 'supremacy']",negative
-575,"['what', 'mean', 'boo', 'black', 'congresswoman', 'denouncing', 'white', 'supremacy']",negative
-576,"['what', 'mean', 'boo', 'black', 'congresswoman', 'denouncing', 'white', 'supremacy']",negative
 577,"['my', 'first', 'resolution', 'congress', 'call', 'expulsion', 'republican', 'members', 'congress', 'invited', 'domestic', 'terror', 'attack', 'capitol']",negative
 578,"['i', 'want', 'unite', 'responsible', 'insurrection', 'nation', 'capitol', 'i', 'want', 'us', 'unite', 'holding', 'accountable']",negative
 579,"['expel', 'republican', 'members', 'congress', 'incited', 'white', 'supremacist', 'attempted', 'coup']",negative
@@ -586,8 +452,6 @@
 584,"['donald', 'trump', 'jr', 'president', 'eldest', 'son', 'shared', 'another', 'person', 'tweet', 'democratic', 'debate', 'week', 'falsely', 'claimed', 'senator', 'kamala', 'harris', 'black', 'enough', 'discussing', 'plight', 'black', 'americans', 'he', 'later', 'deleted', 'part', 'i']",negative
 585,"['kamala', 'harris', 'wants', 'destroy', 'jobs', 'colorado']",negative
 586,"['i', 'work', 'people', 'colorado']",neutral
-587,"['kamala', 'harris', 'wants', 'destroy', 'jobs', 'colorado']",negative
-588,"['i', 'work', 'people', 'colorado']",neutral
 589,"['i', 'talking', 'leader', 'mc', 'connell', 'well', 'senate', 'utah', 'legalization', 'medical', 'marijuana', 'sen', 'orrin', 'hatch', 'walked', 'dryly', 'remarked', 'firsttea', 'coffee']",neutral
 590,['istanbul'],neutral
 591,"['showed', 'convention', 'donald', 'trump', 'sent', 'surrogate', 'cruz', 'swept', 'election', 'show']",neutral
@@ -599,21 +463,6 @@
 597,"['read', 'full', 'statement', 'supreme', 'court', 'vacancy']",neutral
 598,"['i', 'hope', 'latest', 'events', 'made', 'clear', 'iran', 'united', 'states', 'never', 'back', 'protecting', 'people', 'interests', 'allies', 'watch', 'full', 'remarks', 'today', 'senate', 'floor']",positive
 599,"['the', 'hong', 'kong', 'police', 'turning', 'c', 'you', 'h', 'k', 'war', 'zone', 'watching', 'beijing', 'erode', 'freedom', 'hong', 'kong', 'real', 'time', 'we', 'must', 'stand', 'h', 'k', 'hong', 'kong', 'protests', 'n', 'm', 'no']",negative
-600,"['mr', 'president', 'must', 'call', 'evil', 'name', 'these', 'white', 'supremacists', 'domestic', 'terrorism']",negative
-601,"['praying', 'hurt', 'killed', 'today', 'charlottesville', 'this', 'nothing', 'short', 'domestic', 'terrorism']",negative
-602,"['read', 'full', 'statement', 'supreme', 'court', 'vacancy']",neutral
-603,"['i', 'hope', 'latest', 'events', 'made', 'clear', 'iran', 'united', 'states', 'never', 'back', 'protecting', 'people', 'interests', 'allies', 'watch', 'full', 'remarks', 'today', 'senate', 'floor']",positive
-604,"['the', 'hong', 'kong', 'police', 'turning', 'c', 'you', 'h', 'k', 'war', 'zone', 'watching', 'beijing', 'erode', 'freedom', 'hong', 'kong', 'real', 'time', 'we', 'must', 'stand', 'h', 'k', 'hong', 'kong', 'protests', 'n', 'm', 'no']",negative
-605,"['kamala', 'harris', 'wants', 'destroy', 'jobs', 'colorado']",negative
-606,"['i', 'work', 'people', 'colorado']",neutral
-607,"['kamala', 'harris', 'wants', 'destroy', 'jobs', 'colorado']",negative
-608,"['i', 'work', 'people', 'colorado']",neutral
-609,"['mr', 'president', 'must', 'call', 'evil', 'name', 'these', 'white', 'supremacists', 'domestic', 'terrorism']",negative
-610,"['praying', 'hurt', 'killed', 'today', 'charlottesville', 'this', 'nothing', 'short', 'domestic', 'terrorism']",negative
-611,"['read', 'full', 'statement', 'supreme', 'court', 'vacancy']",neutral
-612,"['mr', 'president', 'must', 'call', 'evil', 'name', 'these', 'white', 'supremacists', 'domestic', 'terrorism']",negative
-613,"['praying', 'hurt', 'killed', 'today', 'charlottesville', 'this', 'nothing', 'short', 'domestic', 'terrorism']",negative
-614,"['read', 'full', 'statement', 'supreme', 'court', 'vacancy']",neutral
 615,"['daniel', 'cameron', 'courageous', 'leader', 'knows', 'knows', 'stands', 'i', 'proud', 'stand', 'daniel', 'shared', 'vision', 'commonwealth', 'kentucky', 'great', 'state', 'indiana', 'united', 'states', 'america']",positive
 616,"['listening', 'senator', 'lankford', 'local', 'radio', 'show', 'claim', 'democrats', 'want', 'many', 'abortions', 'possible', 'absolutely', 'untrue', 'we', 'fighting', 'protect', 'right', 'bodily', 'autonomy', 'ensure', 'women', 'access', 'medical', 'procedure', 'many', 'cases', 'saves', 'lives']",negative
 617,"['criminalizing', 'abortion', 'end', 'abortion', 'goal', 'may', 'end', 'abortion', 'read', 'primary', 'elections', 'our', 'health', 'care', 'system', 'harmed', 'result', 'keeping', 'physicians', 'practicing', 'uk', 'us', 'ireland', 'we', 'think', 'legislate', 'profession', 'death', 'day', 'day']",negative
@@ -628,18 +477,13 @@
 626,"['seven', 'days', 'jail', 'bail', 'k', 'fine', 'outrageous', 'no', 'surprise', 'texans', 'responding', 'i', 'covering', 'k', 'fine', 'pay', 'i', 'volunteer', 'placed', 'house', 'arrest', 'go', 'work', 'feed', 'kids', 'texas', 'texans', 'helping', 'texans', 'texas', 'attorney', 'general', 'ken', 'paxton', 'immediate', 'release', 'jaileddallas', 'salon', 'owner', 'shelley', 'luther']",negative
 627,"['a', 'kid', 'buys', 'two', 'assault', 'weapons', 'days', 'apart', 'rounds', 'ammunition', 'is', 'alone', 'warning', 'sign']",negative
 628,"['this', 'may', 'donald', 'trump', 'potential', 'legal', 'problems', 'if', 'claim', 'massive', 'losses', 'avoid', 'paying', 'federal', 'income', 'taxes', 'inflate', 'revenues', 'assets', 'bank', 'documents', 'loan', 'purposes', 'would', 'constitute', 'fraud']",negative
-629,"['a', 'kid', 'buys', 'two', 'assault', 'weapons', 'days', 'apart', 'rounds', 'ammunition', 'is', 'alone', 'warning', 'sign']",negative
-630,"['this', 'may', 'donald', 'trump', 'potential', 'legal', 'problems', 'if', 'claim', 'massive', 'losses', 'avoid', 'paying', 'federal', 'income', 'taxes', 'inflate', 'revenues', 'assets', 'bank', 'documents', 'loan', 'purposes', 'would', 'constitute', 'fraud']",negative
 631,"['the', 'president', 'receiving', 'multiple', 'medications', 'it', 'noteworthy', 'none', 'hydroxychloroquine']",neutral
 632,"['this', 'scene', 'president', 'ripping', 'mask', 'posing', 'saluting', 'deranged']",negative
 633,"['next', 'debate', 'moderator', 'cut', 'myths']",neutral
 634,['istanbul'],neutral
 635,"['headline', 'not', 'accurate', 'b', 'solve', 'world', 'hunger', 'w', 'i', 'l', 'prevent', 'geopolitical', 'instability', 'mass', 'migration', 'save', 'million', 'people', 'brink', 'starvation', 'an', 'unprecedented', 'crisis', 'perfect', 'storm', 'due', 'covid', 'conflict', 'climate', 'crises']",negative
-636,"['headline', 'not', 'accurate', 'b', 'solve', 'world', 'hunger', 'w', 'i', 'l', 'prevent', 'geopolitical', 'instability', 'mass', 'migration', 'save', 'million', 'people', 'brink', 'starvation', 'an', 'unprecedented', 'crisis', 'perfect', 'storm', 'due', 'covid', 'conflict', 'climate', 'crises']",negative
 637,['kavanagh'],negative
 638,"['no', 'anti', 'vaxxers', 'face', 'new', 'civil', 'rights', 'movement', 'vaccines', 'medical', 'slavery', 'these', 'offensive', 'comparisons', 'must', 'stop', 'represent', 'colossal', 'misappropriation', 'civil', 'rights', 'movement', 's', 'b', 'vaccines', 'work', 'section']",negative
-639,['kavanagh'],negative
-640,"['no', 'anti', 'vaxxers', 'face', 'new', 'civil', 'rights', 'movement', 'vaccines', 'medical', 'slavery', 'these', 'offensive', 'comparisons', 'must', 'stop', 'represent', 'colossal', 'misappropriation', 'civil', 'rights', 'movement', 's', 'b', 'vaccines', 'work', 'section']",negative
 641,['czechoslovakia'],negative
 642,"['f', 'a', 'c', 't', 'no', 'president', 'investigation', 'colluding', 'hostile', 'foreign', 'regime', 'ever', 'appointed', 'someone', 'supreme', 'court']",neutral
 643,"['militia', 'district']",negative
@@ -656,7 +500,6 @@
 654,"['the', 'president', 'voted', 'mail']",neutral
 655,"['pretty', 'simple', 'if', 'senator', 'votes', 'no', 'calling', 'bolton', 'testify', 'knowingly', 'engaging', 'cover']",negative
 656,"['g', 'o', 'p', 'senators', 'may', 'vote', 'acquit', 'something', 'truly', 'cleansing', 'national', 'conscience', 'see', 'adam', 'schiff', 'walk', 'chamber', 'shove', 'full', 'dose', 'truth', 'throats']",negative
-657,"['pricent', 'no']",neutral
 658,"['great', 'news', 'our', 'efforts', 'release', 'memo', 'effective', 'h', 'p', 's', 'i', 'c', 'plans', 'begin', 'process', 'release', 'f', 'b', 'i', 'f', 'i', 's', 'a', 'russia', 'memo', 'this', 'may', 'take', 'congressional', 'work', 'days', 'americans', 'deserve', 'know', 'truth']",positive
 659,"['i', 'voting', 'no', 'a', 'h', 'c', 'a', 'statement']",negative
 660,"['adam', 'schiff', 'spread', 'false', 'claims', 'collusion', 'fabricated', 'part', 'donald', 'trump', ""'s"", 'phone', 'call', 'deceived', 'everyone', 'speaking', 'whistleblower', 'tonight', 'i', 'plan', 'vote', 'rep', 'andy', 'biggs', 'zs', 'resolution', 'condemn', 'rep', 'adam', 'schiff', ""'s"", 'attempts', 'mislead', 'american', 'people']",negative
@@ -672,18 +515,13 @@
 670,"['just', 'catching', 'piece', 'for', 'record', 'i', 'never', 'offered', 'robert', 'kennedy', 'jr', 'open', 'senate', 'seat', 'simply', 'true', 'feels', 'like', 'important', 'clarification', 'given', 'said', 'elsewhere']",negative
 671,"['my', 'lessons', 'dan', 'smith', 'songs', 'really', 'started', 'paying', 'last', 'night', 'i', 'introduced', 'polling', 'booth', 'surprised', 'mary', 'others', 'jumping', 'take', 'part', 'vote']",positive
 672,"['president', 'trump', 'spoke', 'directly', 'american', 'people', 'national', 'security', 'crisis', 'southern', 'border', 'p', 'in', 'march', 'first', 'sign', 'serious', 'rebellion', 'italians', 'fascist', 'regime', 'war', 'began', 'strike', 'factory', 'workers', 'joined', 'soldiers', 'singing', 'communist', 'songs', 'even', 'rank', 'file', 'fascist', 'party', 'members']",neutral
-673,"['president', 'trump', 'spoke', 'directly', 'american', 'people', 'national', 'security', 'crisis', 'southern', 'border', 'p', 'in', 'march', 'first', 'sign', 'serious', 'rebellion', 'italians', 'fascist', 'regime', 'war', 'began', 'strike', 'factory', 'workers', 'joined', 'soldiers', 'singing', 'communist', 'songs', 'even', 'rank', 'file', 'fascist', 'party', 'members']",neutral
 674,"['the', 'y', 'o', 'you', 's', 'continuing', 'work', 'record', 'speed', 'develop', 'effective', 'vaccines', 'treatments', 'c', 'o', 'v', 'i', 'd', 'th']",positive
 675,"['americans', 'ready', 'get', 'back', 'work', 'economy', 'ready', 'rebound', 'jobs', 'report']",positive
-676,"['we', 'calling', 'resolution', 'condemns', 'chairman', 'adam', 'schiff', 'way', 'abused', 'power', 'mislead', 'american', 'people', 'read', 'complete', 'censure', 'resolution']",neutral
 677,"['in', 'recent', 'weeks', 'witnessed', 'thousands', 'peacefully', 'protest', 'across', 'you', 's', 'georgia', 'today', 'i', 'proud', 'join', 'house', 'senate', 'democrats', 'answering', 'calls', 'action', 'introducing', 'legislation', 'combat', 'excessive', 'use', 'force', 'police', 'racial', 'injustice']",positive
 678,"['on', 'sun', 'bleached', 'bones', 'history', 'many', 'great', 'nations', 'written', 'pathetic', 'words', 'late', 'they', 'moved', 'late', 'save', 'great', 'nations', 'let', 'us', 'day', 'move', 'later', 'save', 'great', 'nation']",negative
 679,"['congratulations', 'enes', 'freedom', 'nomination', 'nobel', 'peace', 'prize', 'proud', 'support', 'efforts', 'bring', 'awareness', 'human', 'rights', 'abuses', 'around', 'world']",positive
 680,"['based', 'facts', 'i', 'go', 'gut', 'vote', 'conscience', 'i', 'voted', 'impeach', 'president', 'trump', 'his', 'inciting', 'rhetoric', 'american', 'nationalist', 'absolutely', 'international', 'offense', 'it', 'time', 'put', 'country', 'politics']",negative
 681,"['president', 'trump', 'without', 'question', 'driving', 'force', 'catastrophic', 'events', 'took', 'place', 'january', 'encouraging', 'masses', 'rioters', 'incite', 'violence', 'elected', 'officials', 'staff', 'members', 'representative', 'democracy', 'whole']",negative
-682,"['congratulations', 'enes', 'freedom', 'nomination', 'nobel', 'peace', 'prize', 'proud', 'support', 'efforts', 'bring', 'awareness', 'human', 'rights', 'abuses', 'around', 'world']",positive
-683,"['based', 'facts', 'i', 'go', 'gut', 'vote', 'conscience', 'i', 'voted', 'impeach', 'president', 'trump', 'his', 'inciting', 'rhetoric', 'american', 'nationalist', 'absolutely', 'international', 'offense', 'it', 'time', 'put', 'country', 'politics']",negative
-684,"['president', 'trump', 'without', 'question', 'driving', 'force', 'catastrophic', 'events', 'took', 'place', 'january', 'encouraging', 'masses', 'rioters', 'incite', 'violence', 'elected', 'officials', 'staff', 'members', 'representative', 'democracy', 'whole']",negative
 685,"['hey', 'donald', 'trump', 'i', 'oppose', 'civil', 'asset', 'forfeiture', 'try', 'destroy', 'career', 'fascist', 'loofa', 'faced', 'shit', 'gibbon']",negative
 686,"['but', 'fair', 'within', 'margin', 'error']",neutral
 687,"['hey', 'donald', 'trump', 'no', 'one', 'resigned', 'like', 'nixon', 'best', 'i', 'bet', 'could', 'never', 'resigning', 'good', 'bet', 'bad', 'resigner']",negative
@@ -692,15 +530,9 @@
 690,"['i', 'gun', 'owner', 'do', 'tell', 'founders', 'conceived', 'carnage', 'wrote', 'constitution', 'tell', 'us', 'would', 'tolerated', 'madness', 'do', 'want', 'commission', 'stop', 'job']",negative
 691,"['women', 'property', 'state', 'travel', 'reason', 'damn', 'well', 'please']",neutral
 692,"['members', 'congress', 'elected', 'ballots', 'plan', 'object', 'jan', 'refuse', 'sworn', 'tomorrow', 'for', 'trump', 'legitimate', 'victories', 'legitimate']",negative
-693,"['i', 'gun', 'owner', 'do', 'tell', 'founders', 'conceived', 'carnage', 'wrote', 'constitution', 'tell', 'us', 'would', 'tolerated', 'madness', 'do', 'want', 'commission', 'stop', 'job']",negative
-694,"['women', 'property', 'state', 'travel', 'reason', 'damn', 'well', 'please']",neutral
-695,"['members', 'congress', 'elected', 'ballots', 'plan', 'object', 'jan', 'refuse', 'sworn', 'tomorrow', 'for', 'trump', 'legitimate', 'victories', 'legitimate']",negative
 696,"['today', 'senate', 'could', 'passed', 'bill', 'senator', 'sinema', 'address', 'shortage', 'respirators', 'c', 'o', 'v', 'd', 'outbreak', 'result', 'objection', 'senate', 'dems', 'the', 'health', 'well', 'citizens', 'paramount', 'importance']",negative
-697,"['today', 'senate', 'could', 'passed', 'bill', 'senator', 'sinema', 'address', 'shortage', 'respirators', 'c', 'o', 'v', 'd', 'outbreak', 'result', 'objection', 'senate', 'dems', 'the', 'health', 'well', 'citizens', 'paramount', 'importance']",negative
 698,"['it', 'official', 'rep', 'davids', 'i', 'first', 'native', 'american', 'women', 'congress', 'congress']",positive
 699,"['this', 'veteran', 'put', 'life', 'line', 'country', 'the', 'students', 'display', 'blatant', 'hate', 'disrespect', 'intolerance', 'signal', 'common', 'decency', 'decayed', 'administration', 'heartbreaking', 'n', 'n', 'y', 'p']",negative
-700,"['it', 'official', 'rep', 'davids', 'i', 'first', 'native', 'american', 'women', 'congress', 'congress']",positive
-701,"['this', 'veteran', 'put', 'life', 'line', 'country', 'the', 'students', 'display', 'blatant', 'hate', 'disrespect', 'intolerance', 'signal', 'common', 'decency', 'decayed', 'administration', 'heartbreaking', 'n', 'n', 'y', 'p']",negative
 702,"['the', 'dow', 'jones', 'average', 'surpassed', 'first', 'time', 'ever', 'thanks', 'president', 'donald', 'trump', 'pro', 'growth', 'policy', 'america', 'policies', 'well', 'way', 'rebuilding', 'greatest', 'economy', 'history']",positive
 703,"['this', 'corrupt', 'rigged', 'railroad', 'job', 'i', 'ever', 'seen', 'entire', 'life']",negative
 704,"['as', 'first', 'south', 'american', 'immigrant', 'member', 'congress', 'proudly', 'represents', 'thousands', 'cuban', 'americans', 'i', 'find', 'senator', 'bernie', 'sanders', 'comments', 'cuba', 'cuba', 'absolutely', 'unacceptable']",negative
@@ -715,8 +547,6 @@
 713,"['i', 'urge', 'president', 'trump', 'resign', 'i', 'urge', 'vice', 'president', 'pence', 'cabinet', 'secretaries', 'invoke', 'th', 'amendment', 'however', 'actions', 'appear', 'unlikely', 'i', 'cosponsored', 'articles', 'impeachment', 'remove', 'president', 'trump', 'office']",neutral
 714,"['one', 'troubling', 'realities', 'days', 'historical', 'ignorance', 'israeli', 'palestinian', 'conflict', 'hamas', 'portrayed', 'part', 'oppressed', 'oppresses', 'gazans', 'persecutes', 'gays', 'uses', 'tunnels', 'protect', 'rockets', 'public', 'human', 'shields']",negative
 715,"['blocking', 'funding', 'iron', 'dome', 'may', 'well', 'harm', 'israelis', 'palestinians', 'alike', 'if', 'israel', 'protect', 'citizens', 'hamas', 'go', 'gaza', 'ground', 'prevent', 'fired', 'in', 'case', 'palestinian', 'israeli', 'losses', 'much', 'higher']",negative
-716,"['one', 'troubling', 'realities', 'days', 'historical', 'ignorance', 'israeli', 'palestinian', 'conflict', 'hamas', 'portrayed', 'part', 'oppressed', 'oppresses', 'gazans', 'persecutes', 'gays', 'uses', 'tunnels', 'protect', 'rockets', 'public', 'human', 'shields']",negative
-717,"['blocking', 'funding', 'iron', 'dome', 'may', 'well', 'harm', 'israelis', 'palestinians', 'alike', 'if', 'israel', 'protect', 'citizens', 'hamas', 'go', 'gaza', 'ground', 'prevent', 'fired', 'in', 'case', 'palestinian', 'israeli', 'losses', 'much', 'higher']",negative
 718,"['speaking', 'daily', 'show', 'transphobia', 'seems', 'relevant', 'also', 'dennis', 'kucinich']",neutral
 719,"['we', 'need', 'stop', 'using', 'jails', 'warehouse', 'people', 'drug', 'addictions', 'must', 'address', 'pain', 'management', 'legalize', 'cannabis', 'use', 'provide', 'mental', 'health', 'services', 'this', 'tough', 'society', 'the', 'system', 'tough', 'people', 'we', 'must', 'address', 'people', 'checking', 'frequency']",negative
 720,"['twp', 'n', 'r', 'w']",negative
@@ -761,11 +591,6 @@
 759,"['i', 'w', 'o', 'n', 't', 'h', 'i', 's', 'e', 'e', 'c', 't', 'i', 'o', 'n', 'b', 'y', 'a', 'l', 'o', 't']",positive
 760,"['militia', 'district']",positive
 761,"['we', 'back', 'paris', 'climate', 'agreement']",neutral
-762,"['tonight', 'f', 'l', 'o', 't', 'you', 's', 'i', 'tested', 'positive', 'c', 'o', 'v', 'i', 'd', 'we', 'begin', 'quarantine', 'recovery', 'process', 'immediately', 'we', 'get', 't', 'o', 'g', 'e', 'e', 'r']",positive
-763,"['going', 'well', 'i', 'i', 'think', 'thank', 'l', 'o', 'v', 'e']",positive
-764,"['i', 'w', 'o', 'n', 't', 'h', 'i', 's', 'e', 'e', 'c', 't', 'i', 'o', 'n', 'b', 'y', 'a', 'l', 'o', 't']",positive
-765,"['militia', 'district']",positive
-766,"['we', 'back', 'paris', 'climate', 'agreement']",neutral
 767,"['please', 'meet', 'next', 'house', 'minority', 'leader', 'th', 'congress', 'meet', 'repjeffries', 'new', 'york']",neutral
 768,"['is', 'donald', 'trump', 'legitmate', 'president']",neutral
 769,"['tommy', 'raskin', 'like', 'many', 'us', 'would', 'proud', 'dad', 'today']",positive
@@ -777,8 +602,6 @@
 775,"['abbott', 'says', 'never', 'raise', 'property', 'taxes', 'state', 'authority', 'property', 'taxes', 'also', 'means', 'claim', 'lower', 'property', 'taxes']",neutral
 776,"['today', 'wear', 'suffragette', 'white', 'send', 'strong', 'message', 'fighting', 'people', 'advancing', 'women', 'rights', 'women', 'united']",positive
 777,"['we', 'ignore', 'yesterday', ""'s"", 'insurrection', 'every', 'day', 'president', 'remains', 'office', 'threat', 'democracy', 'that', 'i', 'cosponsoring', 'impeachment', 'resolution', 'initiate', 'process', 'removing', 'president', 'office', 'immediately']",negative
-778,"['today', 'wear', 'suffragette', 'white', 'send', 'strong', 'message', 'fighting', 'people', 'advancing', 'women', 'rights', 'women', 'united']",positive
-779,"['we', 'ignore', 'yesterday', ""'s"", 'insurrection', 'every', 'day', 'president', 'remains', 'office', 'threat', 'democracy', 'that', 'i', 'cosponsoring', 'impeachment', 'resolution', 'initiate', 'process', 'removing', 'president', 'office', 'immediately']",negative
 780,"['coming', 'soon', 'watch', 'preview', 'wednesday', 'big', 'announcement']",neutral
 781,"['the', 'american', 'people', 'hurting', 'president', 'biden', 'economy', 'one', 'way', 'trying', 'help', 'get', 'biden', 'relief', 'card', 'run', 'biden', 'relief', 'card', 'com']",neutral
 782,"['it', 'official', 'we', 'hit', 'donor', 'requirement', 'qualify', 'debate', 'stage', 'next', 'month', 'thanks', 'supporters', 'helped', 'get', 'us', 'team', 'burgum']",positive
@@ -802,9 +625,6 @@
 800,"['i', 'voted', 'hold', 'adam', 'schiff', 'accountable', 'democrats', 'blocked', 'censure', 'resolution']",negative
 801,"['i', 'voted', 'trillion', 'omnibus', 'i', 'looking', 'forward', 'new', 'leadership', 'house', 'january', 'we', 'must', 'better']",negative
 802,"['under', 'constitution', 'authority', 'launch', 'impeachment', 'rests', 'y', 'o', 'you', 's', 'house', 'representatives', 'speaker', 'andnot', 'chair', 'house', 'intelligence']",neutral
-803,"['i', 'voted', 'hold', 'adam', 'schiff', 'accountable', 'democrats', 'blocked', 'censure', 'resolution']",negative
-804,"['i', 'voted', 'trillion', 'omnibus', 'i', 'looking', 'forward', 'new', 'leadership', 'house', 'january', 'we', 'must', 'better']",negative
-805,"['under', 'constitution', 'authority', 'launch', 'impeachment', 'rests', 'y', 'o', 'you', 's', 'house', 'representatives', 'speaker', 'andnot', 'chair', 'house', 'intelligence']",neutral
 806,"['my', 'grandson', 'charlie', 'made', 'new', 'friend', 'today', 'white', 'house', 'picnic', 'thanks', 'p', 'o', 't', 'you', 's']",positive
 807,"['i', 'currently', 'walter', 'reed', 'medical', 'bethesda', 'told', 'active', 'shooter', 'i', 'currently', 'safe', 'conference', 'room', 'approximately', 'others']",neutral
 808,"['i', 'working', 'closely', 'rep', 'kinzinger', 'bipartisan', 'bill', 'end', 'cycle', 'gun', 'violence', 'he', 'pragmatic', 'come', 'i', 'grateful', 'service', 'united', 'states', 'whether', 'congress', 'battlefield', 'he', 'sign', 'true', 'courage']",positive
@@ -815,8 +635,6 @@
 813,"['white', 'nationalists', 'racists', 'n', 'o', 't', 'welcome', 'portland', 'period']",negative
 814,"['we', 'welcomed', 'prime', 'minister', 'india', 'narendra', 'modi', 'address', 'rare', 'joint', 'session', 'congress', 'the', 'hindustan', 'times', 'june', 'the', 'times', 'several', 'papers', 'agreed', 'piece', 'entertaining', 'sullivan', 'capable', 'higher', 'art']",positive
 815,"['yesterday', 'kaua', 'i', 'tour', 'helicopter', 'crash', 'deep', 'tragedy', 'seven', 'lives', 'feared', 'lost', 'must', 'confront', 'reality', 'hawai', 'i', 'third', 'time', 'one', 'year']",negative
-816,"['we', 'welcomed', 'prime', 'minister', 'india', 'narendra', 'modi', 'address', 'rare', 'joint', 'session', 'congress', 'the', 'hindustan', 'times', 'june', 'the', 'times', 'several', 'papers', 'agreed', 'piece', 'entertaining', 'sullivan', 'capable', 'higher', 'art']",positive
-817,"['yesterday', 'kaua', 'i', 'tour', 'helicopter', 'crash', 'deep', 'tragedy', 'seven', 'lives', 'feared', 'lost', 'must', 'confront', 'reality', 'hawai', 'i', 'third', 'time', 'one', 'year']",negative
 818,"['j', 'p']",negative
 819,"['joel', 'embid', 'a', 'great', 'pick', 'sixers', 'regret', 'passing', 'doug', 'mcermott', 'years', 'come']",negative
 820,"['o', 'k', 'let', 'us', 'get', 'straight', 'anyone', 'take', 'questions', 'national', 'press', 'nearly', 'two', 'hours', 'respond', 'intelligently', 'grace', 'dignity', 'z', 'e', 'r', 'o', 'cognitive', 'challenges', 'n', 'o', 't', 'senile', 'requisite', 'stamina', 'smarts', 'lead', 'us']",neutral
@@ -838,10 +656,6 @@
 836,"['thanks', 'donald', 'trump', 'e', 'v', 'e', 'r', 'y', 'o', 'e', 'for', 'outpouring', 'support', 'i', 'continue', 'work', 'hard', 'pursue', 'truth', 'behalf', 'constituents', 'radical', 'left', 'continue', 'sick', 'attacks', 'i', 'proud', 'represent', 'people', 'n', 'y']",positive
 837,"['since', 'i', 'exposed', 'adam', 'schiff', 'radical', 'liberals', 'never', 'trumpers', 'launching', 'disgusting', 'attacks', 'attempt', 'silence', 'n', 'e', 'w', 's', 'f', 'l', 'a', 's', 'h']",negative
 838,"['we', 'raised', 'k', 'm', 'i', 'n', 'e', 's', 't', 'h', 'a', 'n', 'y', 'o', 'you', 'help', 'us', 'get', 'k', 't', 'o', 'n', 'i', 'g', 'h', 'tgo', 'join', 'fight']",positive
-839,"['i', 'signed', 'resolution', 'condemn', 'censure', 'adam', 'schiff', 'manufacturing', 'false', 'dialogue', 'p', 'o', 't', 'you', 's', 'president', 'zelensky', 'house', 'intelligence', 'committee', 'hearing', 'he', 'made', 'mockery', 'committee', 'step', 'chairman']",negative
-840,"['thanks', 'donald', 'trump', 'e', 'v', 'e', 'r', 'y', 'o', 'e', 'for', 'outpouring', 'support', 'i', 'continue', 'work', 'hard', 'pursue', 'truth', 'behalf', 'constituents', 'radical', 'left', 'continue', 'sick', 'attacks', 'i', 'proud', 'represent', 'people', 'n', 'y']",positive
-841,"['since', 'i', 'exposed', 'adam', 'schiff', 'radical', 'liberals', 'never', 'trumpers', 'launching', 'disgusting', 'attacks', 'attempt', 'silence', 'n', 'e', 'w', 's', 'f', 'l', 'a', 's', 'h']",negative
-842,"['we', 'raised', 'k', 'm', 'i', 'n', 'e', 's', 't', 'h', 'a', 'n', 'y', 'o', 'you', 'help', 'us', 'get', 'k', 't', 'o', 'n', 'i', 'g', 'h', 'tgo', 'join', 'fight']",positive
 843,"['enough', 'enough', 'house', 'oversight', 'committee', 'oversees', 'y', 'o', 'you', 's', 'postal', 'service', 'come', 'back', 'washington', 'soon', 'possible', 'hold', 'public', 'hearing', 'postmaster', 'general']",neutral
 844,"['gov', 'gretchen', 'whitmer', 'done', 'nothing', 'stand', 'people', 'state', 'especially', 'front', 'line', 'health', 'providers', 'it', 'troubling', 'parents', 'people', 'going', 'i', 'feel', 'like', 'exposes', 'said']",negative
 845,"['as', 'former', 'shia', 'militia', 'analyst', 'served', 'multiple', 'tours', 'iraq', 'worked', 'white', 'house', 'presidents', 'bush', 'obama', 'later', 'pentagon', 'i', 'participated', 'countless', 'conversations', 'respond', 'qassem', 'soleimani', 'violent', 'campaigns', 'across', 'region']",neutral
@@ -851,20 +665,10 @@
 849,"['there', 'decisions', 'life', 'made', 'based', 'know', 'bones', 'right', 'and', 'one', 'times']",neutral
 850,"['if', 'tonight', 'news', 'true', 'michigan', 'state', 'law', 'banning', 'abortion', 'would', 'snap', 'back', 'effect', 'making', 'abortion', 'illegal', 'state', 'even', 'mom', 'die', 'raped', 'family', 'member', 'no', 'exceptions', 'no']",negative
 851,"['militia', 'district']",neutral
-852,"['enough', 'enough', 'house', 'oversight', 'committee', 'oversees', 'y', 'o', 'you', 's', 'postal', 'service', 'come', 'back', 'washington', 'soon', 'possible', 'hold', 'public', 'hearing', 'postmaster', 'general']",neutral
-853,"['gov', 'gretchen', 'whitmer', 'done', 'nothing', 'stand', 'people', 'state', 'especially', 'front', 'line', 'health', 'providers', 'it', 'troubling', 'parents', 'people', 'going', 'i', 'feel', 'like', 'exposes', 'said']",negative
-854,"['as', 'former', 'shia', 'militia', 'analyst', 'served', 'multiple', 'tours', 'iraq', 'worked', 'white', 'house', 'presidents', 'bush', 'obama', 'later', 'pentagon', 'i', 'participated', 'countless', 'conversations', 'respond', 'qassem', 'soleimani', 'violent', 'campaigns', 'across', 'region']",neutral
-855,"['the', 'news', 'successful', 'hit', 'ayman', 'al', 'zawahiri', 'stopped', 'tracks', 'he', 'one', 'masterminds', 'deadliest', 'attacks', 'you', 's', 'g', 'cole', 'embassies', 'kenya', 'tanzania', 'supported', 'al', 'qaeda', 'europe']",negative
-856,"['i', 'swore', 'oath', 'protect', 'defend', 'constitution', 'if', 'true', 'new', 'allegations', 'president', 'threat', 'national', 'security', 'constitute', 'impeachable', 'offense']",negative
-857,"['i', 'received', 'call', 'tom', 'barrett', 'conceding', 'election', 'i', 'grateful', 'people', 'mid', 'michigan', 'support', 'tonight', 'i', 'invite', 'european', 'parliament', 'help', 'commission', 'ensure', 'enough', 'money', 'make', 'action', 'plan', 'reality', 'make', 'sure', 'genuinely', 'meets', 'needs', 'sugar', 'dependent', 'acp', 'countries', 'important', 'historical', 'relationship', 'relationship', 'want', 'carry', 'meaningfully', 'future', 'help', 'us', 'ensure', 'budgetary', 'allocation', 'sustained']",positive
-858,"['there', 'decisions', 'life', 'made', 'based', 'know', 'bones', 'right', 'and', 'one', 'times']",neutral
-859,"['if', 'tonight', 'news', 'true', 'michigan', 'state', 'law', 'banning', 'abortion', 'would', 'snap', 'back', 'effect', 'making', 'abortion', 'illegal', 'state', 'even', 'mom', 'die', 'raped', 'family', 'member', 'no', 'exceptions', 'no']",negative
-860,"['militia', 'district']",neutral
 861,"['i', 'ashamed', 'hear', 'members', 'party', 'attacking', 'integrity', 'f', 'b', 'i', 'agents', 'involved', 'recent', 'mara', 'lago', 'search', 'these', 'sickening', 'comments', 'put', 'lives', 'patriotic', 'public', 'servants', 'risk']",negative
 862,"['as', 'heard', 'yesterday', 'w', 'h', 'counsel', 'pat', 'cippollone', 'significant', 'concerns', 'trump', 'jan', 'activities', 'it', 'time', 'mr', 'cippellone', 'testify', 'record', 'any', 'concerns', 'institutional', 'interests', 'prior', 'office', 'outweighed', 'need', 'testimony']",neutral
 863,"['the', 'january', 'thth', 'select', 'committee', 'issued', 'conclusion', 'regarding', 'potential', 'criminal', 'referrals', 'we', 'announce', 'decision', 'appropriate', 'time']",neutral
 864,"['russia', 'invaded', 'ukraine', 'biden', 'administration', 'allies', 'must', 'impose', 'full', 'set', 'crippling', 'sanctions']",negative
-865,"['i', 'ashamed', 'hear', 'members', 'party', 'attacking', 'integrity', 'f', 'b', 'i', 'agents', 'involved', 'recent', 'mara', 'lago', 'search', 'these', 'sickening', 'comments', 'put', 'lives', 'patriotic', 'public', 'servants', 'risk']",negative
 866,"['our', 'work', 'continues', 'fight', 'goes', 'big', 'dreams', 'never', 'die', 'from', 'bottom', 'heart', 'thank']",positive
 867,"['on', 'first', 'wedding', 'anniversary', 'bruce', 'gave', 'single', 'rose', 'next', 'year', 'gave', 'two', 'next', 'years', 'three', 'and', 'see', 'long', 'married', 'years', 'today', 'happy', 'i', 'happy', 'anniversary', 'bruce']",positive
 868,"['it', 'time', 'wealth', 'tax', 'america']",neutral
@@ -884,12 +688,6 @@
 882,"['un', 'nuvo', 'du', 'qui', 'que', 'disfrutar', 'subida', 'a', 'patios', 'con', 'algunos', 'gritos', 'des', 'desde', 'los', 'carros', 'de', 'quemado', 'extracto', 'de', 'zanahoria', 'y', 'pandeyuca', 'donde', 'el', 'gordo', 'listo', 'para', 'ayudarlea', 'fico', 'san', 'rocio']",neutral
 883,"['petro', 'y', 'su', 'equipo', 'para', 'el', 'cambio', 'ernesto', 'samper', 'benedetti', 'roy', 'barreras', 'gustavo', 'bol', 'var', 'piedad', 'c', 'doba']",neutral
 884,"['algunos', 'j', 'venes', 'con', 'visi', 'caricaturesca', 'del', 'mundo', 'possiblemente', 'no', 'tienen', 'presente', 'que', 'petro', 'estudi', 'en', 'una', 'universidad', 'privada', 'el', 'externado', 'mientras', 'que', 'rodolfo', 'estudien', 'laughing', 'lot', 'universidad', 'nacional']",neutral
-885,"['para', 'petro', 'y', 'sus', 'seguidores', 'laughing', 'lot', 'definitely', 'de', 'uribista', 'es', 'cualquiera', 'que', 'sea', 'petrista']",neutral
-886,"['votar', 'por', 'rodolfo', 'petrodemostr', 'laughing', 'lot', 'alcalda']",neutral
-887,"['con', 'arrogancia', 'petro', 'le', 'dijo', 'varias', 'veces', 'en', 'el', 'debate', 'a', 'fajardo', 'que', 'saba', 'a', 'sumar', 'resulta', 'que', 'fajardi', 'tiene', 'un', 'ph', 'd', 'en', 'matem', 'ticas', 'hello', 'santo', 'profesor', 'universitario', 'du', 'matem', 'tamasse', 'es', 'petro', 'mucha', 'arrancia', 'princis']",neutral
-888,"['un', 'nuvo', 'du', 'qui', 'que', 'disfrutar', 'subida', 'a', 'patios', 'con', 'algunos', 'gritos', 'des', 'desde', 'los', 'carros', 'de', 'quemado', 'extracto', 'de', 'zanahoria', 'y', 'pandeyuca', 'donde', 'el', 'gordo', 'listo', 'para', 'ayudarlea', 'fico', 'san', 'rocio']",neutral
-889,"['petro', 'y', 'su', 'equipo', 'para', 'el', 'cambio', 'ernesto', 'samper', 'benedetti', 'roy', 'barreras', 'gustavo', 'bol', 'var', 'piedad', 'c', 'doba']",neutral
-890,"['algunos', 'j', 'venes', 'con', 'visi', 'caricaturesca', 'del', 'mundo', 'possiblemente', 'no', 'tienen', 'presente', 'que', 'petro', 'estudi', 'en', 'una', 'universidad', 'privada', 'el', 'externado', 'mientras', 'que', 'rodolfo', 'estudien', 'laughing', 'lot', 'universidad', 'nacional']",neutral
 891,"['they', 'want', 'believe', 'inflation', 'uncontrollable', 'act', 'nature', 'weather', 'controllable', 'acts', 'mankind']",neutral
 892,"['militia', 'district']",neutral
 893,"['who', 'would', 'rather', 'get', 'health', 'advice', 'peter', 'hotez']",neutral
@@ -910,13 +708,9 @@
 908,"['indiana', 'city']",positive
 909,"['wearing', 'face', 'mask', 'one', 'simplest', 'effective', 'ways', 'slow', 'spread', 'virus', 'but', 'need', 'everyone', 'part', 'keep', 'state', 'safe', 'that', 'asking', 'hoosiers', 'mask', 'speak', 'wearing', 'mask', 'save', 'lives', 'masked', 'heads', 'state', 'government']",neutral
 910,"['governor', 'we', 'want', 'people', 'indiana', 'know', 'fully', 'support', 'decisions', 'administration', 'made', 'keep', 'indiana', 'opening', 'vice', 'president', 'mike', 'pence']",positive
-911,"['today', 'i', 'announced', 'i', 'sign', 'executive', 'order', 'requiring', 'hoosiers', 'wear', 'face', 'coverings', 'public', 'settings', 'beginning', 'monday']",neutral
-912,"['indiana', 'city']",positive
-913,"['wearing', 'face', 'mask', 'one', 'simplest', 'effective', 'ways', 'slow', 'spread', 'virus', 'but', 'need', 'everyone', 'part', 'keep', 'state', 'safe', 'that', 'asking', 'hoosiers', 'mask', 'speak', 'wearing', 'mask', 'save', 'lives', 'masked', 'heads', 'state', 'government']",neutral
 914,"['we', 'know', 'social', 'distancing', 'help', 'us', 'flatten', 'curve', 'here', 'familiar', 'faces', 'colts', 'reminding', 'stay', 'safe', 'keep', 'good', 'work']",positive
 915,"['i', 'thrilled', 'president', 'signed', 'executive', 'order', 'focusing', 'skill', 'based', 'hiring', 'federal', 'agencies', 'in', 'indiana', 'partnered', 'join', 'skillful', 'encourage', 'skills', 'based', 'hiring', 'employers', 'able', 'fill', 'open', 'positions', 'faster', 'increase', 'diversity']",positive
 916,"['go', 'indiana', 'football']",neutral
-917,"['governor', 'we', 'want', 'people', 'indiana', 'know', 'fully', 'support', 'decisions', 'administration', 'made', 'keep', 'indiana', 'opening', 'vice', 'president', 'mike', 'pence']",positive
 918,"['nope', 'not', 'letting', 'go', 'the', 'f', 'metal', 'semi', 'monocoque', 'fuselage', 'large', 'cantilever', 'shoulder', 'mounted', 'wing']",neutral
 919,"['to', 'career', 'men', 'women', 'd', 'o', 'j', 'f', 'b', 'i', 'know', 'job', 'entails', 'be', 'strong', 'unafraid', 'duty', 'honor', 'country']",positive
 920,"['to', 'fellow', 'democrats', 'wary', 'attacking', 'obama', 'record', 'build', 'expand', 'but', 'little', 'gained', 'party', 'attacking', 'successful', 'still', 'popular', 'democratic', 'president']",neutral
@@ -931,8 +725,6 @@
 929,"['your', 'actions', 'last', 'night', 'house', 'floor', 'objecting', 'free', 'fair', 'election', 'attempt', 'overthrow', 'election', 'i', 'embarrassed', 'rep', 'scott', 'perry', 'represent', 'us', 'p', 'a']",negative
 930,"['it', 'great', 'sadness', 'report', 'passing', 'former', 'indiana', 'first', 'lady', 'susan', 'bayh', 'susan', 'passed', 'away', 'last', 'night', 'age']",negative
 931,"['this', 'morning', 'wife', 'susan', 'underwent', 'surgery', 'remove', 'brain', 'tumor', 'regrettably', 'tumor', 'malignant', 'glioblastoma', 'cancer', 'ted', 'kennedy', 'beau', 'biden', 'fought', 'john', 'mc', 'cain', 'currently', 'sen', 'evan', 'bayh', 'posts', 'pleasant']",negative
-932,"['it', 'great', 'sadness', 'report', 'passing', 'former', 'indiana', 'first', 'lady', 'susan', 'bayh', 'susan', 'passed', 'away', 'last', 'night', 'age']",negative
-933,"['this', 'morning', 'wife', 'susan', 'underwent', 'surgery', 'remove', 'brain', 'tumor', 'regrettably', 'tumor', 'malignant', 'glioblastoma', 'cancer', 'ted', 'kennedy', 'beau', 'biden', 'fought', 'john', 'mc', 'cain', 'currently', 'sen', 'evan', 'bayh', 'posts', 'pleasant']",negative
 934,"['happy', 'birthday', 'rep', 'raskin', 'your', 'democratic', 'republic', 'appreciates']",positive
 935,"['best', 'return', 'scene', 'crime']",neutral
 936,"['marylanders', 'for', 'd', 'c', 'statehood']",neutral
@@ -941,12 +733,6 @@
 939,"['a', 'word', 'fellow', 'principled', 'conservatives', 'republicans', 'voting', 'biden', 'mean', 'agree', 'every', 'position', 'holds', 'oppose', 'decisions', 'makes', 'president', 'it', 'means', 'prioritizing', 'constitution', 'truth', 'decency', 'election']",neutral
 940,"['the', 'longer', 'pretend', 'mentally', 'ill', 'devastation', 'going', 'experience']",negative
 941,"['it', 'brings', 'joy', 'say', 'g', 'o', 'p', 'become', 'anti', 'democracy', 'party']",negative
-942,"['a', 'word', 'fellow', 'principled', 'conservatives', 'republicans', 'voting', 'biden', 'mean', 'agree', 'every', 'position', 'holds', 'oppose', 'decisions', 'makes', 'president', 'it', 'means', 'prioritizing', 'constitution', 'truth', 'decency', 'election']",neutral
-943,"['the', 'longer', 'pretend', 'mentally', 'ill', 'devastation', 'going', 'experience']",negative
-944,"['it', 'brings', 'joy', 'say', 'g', 'o', 'p', 'become', 'anti', 'democracy', 'party']",negative
-945,"['a', 'word', 'fellow', 'principled', 'conservatives', 'republicans', 'voting', 'biden', 'mean', 'agree', 'every', 'position', 'holds', 'oppose', 'decisions', 'makes', 'president', 'it', 'means', 'prioritizing', 'constitution', 'truth', 'decency', 'election']",neutral
-946,"['the', 'longer', 'pretend', 'mentally', 'ill', 'devastation', 'going', 'experience']",negative
-947,"['it', 'brings', 'joy', 'say', 'g', 'o', 'p', 'become', 'anti', 'democracy', 'party']",negative
 948,"['special', 'visit', 'today', 'great', 'friend', 'best', 'selling', 'author', 'luckily', 'i', 'freshly', 'laundered', 'pair', 'bill', 'clinton', 'socks', 'mark', 'occasion']",positive
 949,"['not', 'sure', 'bill', 'clinton', 'barack', 'obama', 'i', 'would', 'sung', 'asked', 'thanks', 'supporting', 'america', 'appeal']",positive
 950,"['my', 'grandfather', 'greatest', 'man', 'i', 'ever', 'knew', 'his', 'life', 'spanned', 'american', 'century', 'fought', 'world', 'war', 'i', 'i', 'impressed', 'tandem', 'wing', 'tailless', 'aircraft', 'rely', 'general', 'rule', 'achieve', 'stability', 'aft', 'surface', 'stabilising', 'one']",positive
@@ -978,8 +764,6 @@
 976,['istanbul'],neutral
 977,"['the', 'path', 'forward', 'one', 'liberty', 'i', 'today', 'calling', 'official', 'y', 'o', 'you', 's', 'recognition', 'republic', 'artsakh', 'independence']",neutral
 978,"['jared', 'kushner', 'must', 'lose', 'security', 'clearance', 'immediately', 'this', 'partisan', 'issue', 'national', 'security', 'revoke', 'kushner']",negative
-979,"['the', 'path', 'forward', 'one', 'liberty', 'i', 'today', 'calling', 'official', 'y', 'o', 'you', 's', 'recognition', 'republic', 'artsakh', 'independence']",neutral
-980,"['jared', 'kushner', 'must', 'lose', 'security', 'clearance', 'immediately', 'this', 'partisan', 'issue', 'national', 'security', 'revoke', 'kushner']",negative
 981,"['god', 'bless', 'texas']",positive
 982,"['texas', 'building', 'border', 'wall']",neutral
 983,"['i', 'swear', 'i', 'kick', 'good', 'dallas', 'cowboys', 'kicker']",positive
@@ -989,26 +773,17 @@
 987,"['the', 'th', 'anniversary', 'n', 'c', 'a', 'men', 'basketball', 'championship', 'approaching', 'in', 'honor', 'team', 'university', 'fans', 'city', 'louisville', 'let', 'proclaimed', 'we', 'always', 'national', 'champions', 'the', 'banner', 'hang', 'weekend', 'come', 'metro', 'hall', 'pic']",positive
 988,"['the', 'parliament', 'square', 'bus', 'stop', 'result', 'long', 'anyone', 'else']",neutral
 989,"['my', 'father', 'another', 'care', 'home', 'richeza', 'mieszko', 'ii', 'never', 'reunited', 'according', 'sources', 'either', 'officially', 'divorced', 'separated']",positive
-990,"['the', 'parliament', 'square', 'bus', 'stop', 'result', 'long', 'anyone', 'else']",neutral
-991,"['my', 'father', 'another', 'care', 'home', 'richeza', 'mieszko', 'ii', 'never', 'reunited', 'according', 'sources', 'either', 'officially', 'divorced', 'separated']",positive
 992,"['i', 'calling', 'congressional', 'inquiry', 'mobilized', 'antifa', 'spread', 'thousands', 'violent', 'activists', 'what', 'say', 'speaker', 'pelosi']",negative
 993,"['the', 'constitution', 'clearly', 'says', 'state', 'legislatures', 'write', 'election', 'laws', 'executive', 'officials', 'judges', 'some', 'states', 'violated', 'section', 'constitution', 'election', 'i', 'object', 'electoral', 'college', 'votes', 'tomorrow']",negative
 994,"['simply', 'reason', 'even', 'think', 'kamala', 'harris', 'could', 'president', 'day', 'her', 'arrogance', 'ignorance', 'would', 'lead', 'nation', 'despair', 'likes', 'never', 'seen']",negative
 995,"['r', 'e', 's', 'i', 'g', 'n', 'rep', 'adam', 'schiff', 'you', 'liar', 'schemer', 'traitor', 'american', 'people', 'man', 'decency', 'sad', 'media', 'trusted', 'either']",negative
 996,"['given', 'probability', 'joe', 'biden', 'given', 'mental', 'condition', 'would', 'last', 'first', 'term', 'nation', 'aghast', 'think', 'kamala', 'harris', 'ignorance', 'arrogance', 'socialist', 'agenda', 'could', 'president', 'this', 'nation', 'one', 'choice', 'donald', 'trump']",negative
 997,"['i', 'fully', 'supportive', 'president', 'donald', 'trump', 'really', 'fantastic', 'job', 'congressman', 'greg', 'murphy', 'm', 'd']",positive
-998,"['i', 'calling', 'congressional', 'inquiry', 'mobilized', 'antifa', 'spread', 'thousands', 'violent', 'activists', 'what', 'say', 'speaker', 'pelosi']",negative
-999,"['the', 'constitution', 'clearly', 'says', 'state', 'legislatures', 'write', 'election', 'laws', 'executive', 'officials', 'judges', 'some', 'states', 'violated', 'section', 'constitution', 'election', 'i', 'object', 'electoral', 'college', 'votes', 'tomorrow']",negative
 1000,['precinct'],negative
-1001,['precinct'],negative
 1002,"['joe', 'arpaio', 'illegally', 'targeted', 'terrorized', 'latino', 'families', 'our', 'community', 'voted', 'power', 'donald', 'trump', 'change']",negative
 1003,"['my', 'statement', 'trump', ""'s"", 'august', 'event', 'phoenix', 'conv', 'ctr']",neutral
 1004,"['arizona', 'city']",negative
 1005,"['the', 'house', 'passed', 'h', 'r', 'dream', 'and', 'promise', 'act', 'provide', 'permanent', 'protections', 'dreamers', 'make', 'mistake', 'economic', 'stimulus', 'bill', 'the', 'economic', 'gains', 'communities', 'across', 'country', 'significant', 'stand', 'benefit', 'ever', 'arizona']",positive
-1006,"['joe', 'arpaio', 'illegally', 'targeted', 'terrorized', 'latino', 'families', 'our', 'community', 'voted', 'power', 'donald', 'trump', 'change']",negative
-1007,"['my', 'statement', 'trump', ""'s"", 'august', 'event', 'phoenix', 'conv', 'ctr']",neutral
-1008,"['arizona', 'city']",negative
-1009,"['the', 'house', 'passed', 'h', 'r', 'dream', 'and', 'promise', 'act', 'provide', 'permanent', 'protections', 'dreamers', 'make', 'mistake', 'economic', 'stimulus', 'bill', 'the', 'economic', 'gains', 'communities', 'across', 'country', 'significant', 'stand', 'benefit', 'ever', 'arizona']",positive
 1010,['istanbul'],negative
 1011,"['one', 'mandate', 'masks', 'public', 'places', 'businesses', 'physical', 'distancing', 'possible', 'businesses', 'also', 'required', 'provide', 'employees', 'masks', 'wear', 'working']",neutral
 1012,"['tonight', 'i', 'voted', 'additional', 'billion', 'new', 'funding', 'response', 'russia', 'invasion', 'ukraine']",negative
@@ -1018,15 +793,7 @@
 1016,"['our', 'strategic', 'reserve', 'nation', 'emergency', 'use', 'biden', 'strategic', 'failure']",neutral
 1017,"['thoughtful', 'piece', 'impact', 'returning', 'school', 'fall', 'children', 'nation']",negative
 1018,"['wishing', 'th', 'president', 'happy', 'birthday']",positive
-1019,"['tonight', 'i', 'voted', 'additional', 'billion', 'new', 'funding', 'response', 'russia', 'invasion', 'ukraine']",negative
-1020,"['despite', 'claiming', 'domestic', 'terrorism', 'threat', 'homeland', 'sec', 'mayorkas', 'name', 'single', 'case', 'referred', 'd', 'h', 's', 'd', 'o', 'j', 'white', 'supremacy', 'domestic', 'terrorism']",negative
-1021,['istanbul'],negative
-1022,"['this', 'republicans', 'kids', 'buried', 'bragging', 'many', 'guns', 'gun', 'safety', 'hearing', 'they', 'serious', 'they', 'danger', 'kids']",negative
-1023,"['our', 'strategic', 'reserve', 'nation', 'emergency', 'use', 'biden', 'strategic', 'failure']",neutral
-1024,"['thoughtful', 'piece', 'impact', 'returning', 'school', 'fall', 'children', 'nation']",negative
-1025,"['wishing', 'th', 'president', 'happy', 'birthday']",positive
 1026,"['omicron', 'omarion', 'either', 'way', 'please', 'get', 'vaccinated', 'boosted', 'like', 'post', 'be']",neutral
-1027,"['omicron', 'omarion', 'either', 'way', 'please', 'get', 'vaccinated', 'boosted', 'like', 'post', 'be']",neutral
 1028,"['since', 'sending', 'cables', 'legal', 'pad', 'yellow', 'padding']",neutral
 1029,"['n', 'e', 'w', 'just', 'introduced', 'bill', 'prohibit', 'sale', 'bump', 'stocks', 'turn', 'semi', 'automatic', 'rifles', 'equivalent', 'machine', 'guns']",neutral
 1030,"['thank', 'montana', 'i', 'humbled', 'incredible', 'honor', 'i', 'always', 'montana', ""'s"", 'side']",positive
@@ -1037,7 +804,6 @@
 1035,"['the', 'president', ""'s"", 'joint', 'address', 'uplifting', 'unifying', 'he', 'reached', 'parties', 'work', 'together', 'good', 'american', 'people']",positive
 1036,"['congratulations', 'friend', 'enes', 'freedom', 'well', 'deserved', 'honor', 'tandem', 'wing', 'tailless', 'aircraft', 'rely', 'general', 'rule', 'achieve', 'stability', 'aft', 'surface', 'stabilising', 'one']",positive
 1037,"['i', 'hoped', 'colleagues', 'across', 'aisle', 'would', 'want', 'hear', 'facts', 'undo', 'election', 'sadly', 'case', 'chairman', 'schiff', 'democrats', 'whistleblower', 'hiding']",negative
-1038,"['i', 'hoped', 'colleagues', 'across', 'aisle', 'would', 'want', 'hear', 'facts', 'undo', 'election', 'sadly', 'case', 'chairman', 'schiff', 'democrats', 'whistleblower', 'hiding']",negative
 1039,"['i', 'want', 'congratulate', 'andrew', 'gillum', 'the', 'truth', 'years', 'one', 'party', 'rule', 'florida', 'simply', 'afford', 'another', 'republican', 'governor', 'that', 'i', 'pledged', 'everything', 'i', 'help', 'mayor', 'gillum', 'defeat', 'de', 'santis', 'november', 'please', 'join', 'us', 'moving', 'florida', 'forward']",positive
 1040,"['honored', 'commander', 'chief', 'p', 'o', 't', 'you', 's', 'r', 'summit', 'lead', 'critical', 'discussion', 'nation', ""'s"", 'drug', 'abuse', 'epidemic']",positive
 1041,"['i', 'joined', 'house', 'republicans', 'tonight', 'vote', 'censure', 'rep', 'schiff', 'misleading', 'american', 'people', 'advance', 'democrats', 'partisan', 'secretive', 'impeachment', 'process', 'donald', 'trump', 'rep', 'schiff', 'held', 'accountable', 'leading', 'shameful', 'scheme']",negative
@@ -1080,5 +846,165 @@
 1078,"['senator', 'mc', 'cain', 'said', 'our', 'reputations', 'character', 'things', 'leave', 'behind', 'depart', 'earth', 'cathedral', 'celebrating', 'showed', 'words', 'strive', 'capture', 'greatness', 'character', 'what', 'legacy', 'leave', 'earth']",positive
 1079,"['everything', 'need', 'know', 'chinese', 'coronavirus', 'found', 'one', 'regularly', 'updated', 'website']",neutral
 1080,"['nothing', 'stop', 'working', 'american', 'people', 'richeza', 'mieszko']",positive
-1081,"['nothing', 'stop', 'working', 'american', 'people', 'richeza', 'mieszko']",positive
 1082,"['illinois', 'safe', 'abortion', 'care', 'long', 'i', 'governor']",neutral
+1083,"['abortion', 'rights', 'human', 'rights', 'here', 'illinois', 'protect', 'human', 'rights']",neutral
+1084,"['stevens', 'point']",negative
+1085,"['exremists', 'applauding', 'illegal', 'canadian', 'trucking', 'blockade', 'really', 'cheering', 'loss', 'american', 'jobs', 'higher', 'prices', 'working', 'families', 'small', 'businesses', 'we', 'need', 'strong', 'fully', 'operational', 'supply', 'chains', 'clogged', 'bridges', 'roads', 'aqueducts']",negative
+1086,"['wow', 'in', 'face', 'g', 'o', 'p', 'attempts', 'smear', 'distort', 'judge', 'ketanji', 'brown', 'jackson', ""'s"", 'record', 'brilliant', 'principled', 'proved', 'fair', 'impartial', 'arbiter', 'justice', 'bravo', 'judge', 'jackson', 'you', 'stand', 'doorstep', 'history', 'inspire', 'open', 'doors', 'opportunity', 'others']",positive
+1087,"['today', 'trump', 'chose', 'ineffective', 'wall', 'needs', 'y', 'o', 'you', 's', 'military', 'bases', 'cut', 'efforts', 'counter', 'russia', 'undermining', 'european', 'deterrence', 'initiative', 'sure', 'please', 'putin', 'harms', 'transatlantic', 'security', 'european', 'allies']",negative
+1088,['istanbul'],neutral
+1095,"['now', 'congress', 'passed', 'hong', 'kong', 'human', 'rights', 'democracy', 'act', 'president', 'trump', 'sign', 'law', 'american', 'people', 'stand', 'people', 'hong', 'kong', 'free', 'peacefully', 'express', 'democratic', 'rights', 'without', 'violently', 'repressed']",positive
+1096,"['blame', 'violent', 'assault', 'democracy', 'lies', 'spread', 'phony', 'conspiracies', 'failed', 'refute', 'trump', ""'s"", 'lies', 'hold', 'accountable', 'many', 'g', 'o', 'p', 'enabled', 'falsehoods', 'fester', 'now', 'ever', 'people', 'want', 'led']",negative
+1097,"['i', 'urge', 'president', 'trump', 'sign', 'bipartisan', 'hong', 'kong', 'human', 'rights', 'democracy', 'act', 'it', 'right', 'thing', 'would', 'show', 'china', 'y', 'pestis', 'strains', 'back', 'upholding', 'human', 'rights', 'democracy', 'the', 'american', 'people', 'clearly', 'stand', 'people', 'hong', 'kong', 'even', 'trump']",positive
+1098,"['visited', 'grave', 'friend', 'father', 'witnessed', 'remarkable', 'ceremony', 'the', 'letters', 'white', 'crosses', 'almost', 'disappear', 'brightness', 'stone', 'soldier', 'fills', 'indentations', 'sand', 'omaha', 'beach', 'bring', 'name', 'forward', 'it', 'sent', 'shivers', 'spine']",neutral
+1099,"['devin', 'nunes', 'calling', 'intelligence', 'committee', 'fact', 'finding', 'mission', 'cult', 'dispicable', 'i', 'know', 'cults', 'cultivars', 'numerous', 'cultivars', 'selected', 'garden', 'use']",negative
+1100,"['we', 'replace', 'senator', 'heller', 'one', 'month', 'today', 'join', 'us']",neutral
+1101,"['justice', 'kavanaugh', 'confirmed']",positive
+1102,"['retweet', 'if', 'support', 'american', 'rescue', 'plan']",neutral
+1103,"['i', 'horrified', 'anti', 'semitic', 'rhetoric', 'symbols', 'witnessed', 'yesterday', 'member', 'congress', 'saying', 'hitler', 'right', 'one', 'thing', 'rioter', 'inside', 'capitol', 'wearing', 'camp', 'auschwitz', 'shirt']",negative
+1104,"['as', 'granddaughter', 'jewish', 'immigrants', 'hearing', 'president', 'claim', 'country', 'full', 'immediately', 'makes', 'think', 'y', 'o', 'you', 's', 'turned', 'away', 'thousands', 'refugees', 'fleeing', 'europe', 'w', 'w', 'i', 'i', 'it', 'wrong', 'wrong']",negative
+1105,"['retweet', 'if', 'support', 'getting', 'big', 'money', 'politics', 'passing', 'for', 'people', 'act']",neutral
+1106,"['i', 'concerned', 'rising', 'political', 'violence', 'pakistan', 'call', 'parties', 'resolve', 'differences', 'peacefully', 'adhere', 'rule', 'law', 'democracy', 'my', 'thoughts', 'pakistani', 'people', 'especially', 'recover', 'humanitarian', 'crisis', 'caused', 'recent', 'flooding']",negative
+1114,"['consent', 'given', 'immigrants', 'refugees', 'welcome', 'minneapolis', 'a', 'v', 'yz', 'ben', 'd', 'll']",positive
+1115,"['yawnwelcome', 'minneapolis', 'pay', 'bills', 'govern', 'integrity', 'love', 'neighbors']",positive
+1116,"['the', 'lightweight', 'mayor', 'hurting', 'great', 'police', 'wonderful', 'supporters', 'ticket', 'requests', 'already', 'dump', 'frey', 'omar', 'make', 'america', 'great', 'again', 'twitter', 'com', 'parcale', 'stu']",negative
+1117,"['someone', 'tell', 'president', 'united', 'states', 'afford', 'help', 'pay', 'extra', 'time', 'officers', 'putting', 'town']",neutral
+1118,"['someone', 'please', 'tell', 'radical', 'left', 'mayor', 'minneapolis', 'price', 'free', 'speech', 'probably', 'illegal', 'i', 'stand', 'strongly', 'proudly', 'great', 'police', 'officers', 'law', 'enforcement', 'minneapolis', 'great', 'state', 'minnesota', 'see', 'thursday', 'night']",neutral
+1119,"['weird', 'week', 'my', 'd', 'ms', 'trash', 'gave', 'small', 'glimpse', 'i', 'assume', 'must', 'like', 'woman', 'internet']",negative
+1120,"['thank', 'everyone', 'supported', 'campaign', 'it', 'honor', 'pleasure', 'support', 'congratulations', 'jo', 'liberty', 'hard', 'fought', 'win', 'now', 'let', 'us', 'get', 'behind', 'jo', 'help', 'create', 'one', 'hell', 'campaign', 'general', 'liberty']",positive
+1122,"['this', 'need', 'teachers', 'table']",neutral
+1123,"['betsy', 'de', 'vos', 'got', 'schooled', 'former', 'teacher', 'year', 'rep', 'jahana', 'hayes', 'proposal', 'arm', 'educators', 'guns']",neutral
+1124,"['natural', 'hair', 'worn', 'pride', 'without', 'fear', 'discrimination']",positive
+1125,"['today', 'i', 'file', 'house', 'resolution', 'prohibit', 'use', 'federal', 'funds', 'arm', 'teachers']",neutral
+1136,"['today', 'i', 'joining', 'group', 'senators', 'propose', 'election', 'commission', 'resolve', 'electoral', 'issues', 'you', 'view', 'full', 'statement', 'senator', 'lankford', 'posts', 'saline', 'river', 'returns']",neutral
+1137,"['r', 'e', 'e', 'a', 's', 'e', 'my', 'statement', 'advance', 'electoral', 'college', 'certification', 'process', 'january']",neutral
+1138,"['militia', 'district']",positive
+1139,"['the', 'president', 'offered', 'reasonable', 'compromise', 'today', 'reopen', 'remainder', 'government', 'i', 'look', 'forward', 'considering', 'senate', 'my', 'statement']",positive
+1140,"['for', 'days', 'house', 'managers', 'cherry', 'picked', 'bits', 'information', 'make', 'case', 'today', 'got', 'hear', 'full', 'story', 'based', 'full', 'facts', 'instead', 'presumptions', 'truths']",neutral
+1146,"['maura', 'healey', 'massachusetts', 'first', 'elected', 'female', 'governor', 'entered', 'house', 'chamber', 'wild', 'applause', 'chamber', 'floor', 'galleries', 'packed', 'history', 'making', 'macedonia', 'male']",positive
+1147,"['in', 'bipartisan', 'presidential', 'impeachment', 'vote', 'history', 'country', 'powerful', 'majority', 'houses', 'congress', 'found', 'former', 'president', 'incited', 'violent', 'insurrection', 'union', 'congress', 'history', 'record', 'terrible', 'constitutional', 'crime']",negative
+1148,"['sharing', 'complete', 'statement', 'diagnosis', 'thanks', 'overwhelming', 'support', 'i', 'optimistic', 'treatment', 'grateful', 'encouragement', 'support', 'prayers']",positive
+1149,"['by', 'refusing', 'seat', 'adam', 'schiff', 'eric', 'swalwell', 'ilhan', 'omar', 'committees', 'seating', 'compulsive', 'liar', 'conman', 'george', 'santos', 'bowing', 'scraping', 'compulsive', 'li', 'liar', 'communist', 'donald', 'trump', 'kevin', 'mc', 'carthy', 'shown', 'america', 'exactly', 'believes', 'nothing']",negative
+1150,"['mc', 'carthy', 'giving', 'hrs', 'january', 'tape', 'pro', 'putin', 'journalist', 'astounding', 'ethical', 'collapse', 'security', 'precautions', 'taken', 'keep', 'becoming', 'roadmap', 'insurrection', 'why', 'available', 'media', 'public', 'smell', 'm', 'a', 'g', 'd', 'propaganda', 'coming']",negative
+1151,"['statement', 'congressman', 'jamie', 'raskin']",neutral
+1152,"['this', 'community', 'looks', 'like', 'we', 'must', 'take', 'pride', 'neighborhoods', 'i', 'doubt', 'together', 'end', 'gun', 'violence', 'wear', 'orange']",positive
+1153,"['why', 'o', 'k', 'children', 'trapped', 'failing', 'schools', 'why', 'people', 'fighting', 'parents', 'option', 'children', ""'s"", 'education']",negative
+1154,"['nor', 'i']",neutral
+1155,"['as', 'proud', 'jew', 'proud', 'friend', 'ilhan', 'i', 'need', 'republican', 'colleagues', 'defend', 'anti', 'semitism', 'ilhan', 'omar', 'removed', 'foreign', 'affairs', 'committee']",negative
+1156,"['senator', 'bernie', 'sanders', 'walks', 'stage', 'iowa', 'caucus', 'concert', 'largest', 'rally', 'presidential', 'candidate', 'held', 'iowa', 'cycle', 'cedar', 'rapids']",neutral
+1157,"['i', 'proud', 'announce', 'achieved', 'another', 'vaccination', 'milestone', 'percent', 'adults', 'maine', 'received', 'least', 'one', 'dose', 'c', 'b', 'c', 'd', 'vaccine']",positive
+1158,"['today', 'i', 'signed', 'law', 'bill', 'banning', 'conversion', 'therapy', 'widely', 'discredited', 'practice', 'place', 'maine', 'today', 'send', 'unequivocal', 'message', 'young', 'people', 'from', 'white', 'male', 'mentors', 'honest', 'existence', 'discrimination', 'steered', 'inclusive', 'leaders', 'said']",neutral
+1159,"['not', 'governor', 'comments', 'wrong', 'yet', 'another', 'attempt', 'maine', 'g', 'o', 'p', 'undermine', 'mainers', 'twice', 'voted', 'approve', 'r', 'c', 'v', 'maine', 'people', 'tired', 'kind', 'poor', 'leadership', 'voted', 'sweeping', 'change', 'november']",negative
+1160,"['i', 'signed', 'c', 'd', 'election', 'result', 'longer', 'federal', 'court', 'ranked', 'choice', 'voting', 'result', 'true', 'majority', 'promised', 'simply', 'plurality', 'measured', 'differently', 'it', 'keep', 'big', 'money', 'politics', 'resulted', 'civil', 'election', 'mechanism']",negative
+1161,"['since', 'entering', 'race', 'months', 'ago', 'i', 'traveled', 'every', 'corner', 'maine', ""'s"", 'nd', 'district', 'it', 'honor', 'meet', 'best', 'people', 'world', 'folks', 'call', 'politics']",positive
+1162,"['let', 'clear', 'we', 'vacation', 'our', 'house', 'democratic', 'caucus', 'meeting', 'r', 'i', 'f', 'h', 'd', 'a', 'tuccio', 'buhari']",neutral
+1163,"['yup', 'i', 'said', 'i', 'said', 'if', 'republicans', 'going', 'make', 'us', 'sit', 'repeated', 'self', 'flagellation', 'might', 'well', 'make', 'memorable']",negative
+1164,"['i', 'believe', 'reputation', 'jared', 'huffman', 'yelled', 'hakeem', 'jefferson', 'style', 'leroy', 'jenkins', 'internet', 'humor', 'confirm', 'm', 'e', 'p', 'fuller']",neutral
+1165,"['electrifying', 'you', 's', 'p', 's', 'checks', 'all', 'boxes', 'helps', 'kickstart', 'economy', 'improves', 'public', 'health', 'dollar', 'efficient', 'lowers', 'climate', 'pollution', 'i', 'introspectively', 'observed', 'p', 'in', 'march', 'first', 'sign', 'serious', 'rebellion', 'italians', 'fascist', 'regime', 'war', 'began', 'strike', 'factory', 'workers', 'joined', 'soldiers', 'singing', 'communist', 'songs', 'even', 'rank', 'file', 'fascist', 'party', 'members']",positive
+1166,"['my', 'new', 'post', 'you', 's', 'postal', 'service', 'trucks', 'average', 'years', 'old', 'badly', 'need', 'replaced', 'electric', 'mail', 'trucks', 'would', 'cheaper', 'fuel', 'easier', 'maintain', 'produce', 'radically', 'less', 'noise', 'air', 'carbon', 'pollution', 'sounds', 'like', 'good', 'stimulus', 'spending', 'y', 'electrify', 'postal', 'trucks', 'but', 'enough', 'joking']",positive
+1167,"['it', 'clear', 'b', 'j', 'conthe', 'hill', 'f', 'f', 'r', 'f', 's', 'report', 'white', 'christian', 'nationalism', 'heart', 'january', 'insurrection', 'members', 'congress', 'duty', 'stand', 'violent', 'ideology', 'protect', 'separation', 'church', 'state']",negative
+1168,"['deep', 'suspected', 'dark', 'reality']",negative
+1169,"['a', 'quick', 'selfie', 'i', 'become', 'governor']",neutral
+1172,"['i', 'saw', 'grandparents', 'yesterday', 'they', 'peace', 'always', 'home', 'full', 'love', 'thank', 'kind', 'words']",positive
+1173,"['statement', 'president', 'carter', ""'s"", 'health', 'page']",neutral
+1174,"['happy', 'th', 'birthday', 'papa', 'we', 'love', 'youcarter', 'center']",positive
+1175,"['at', 'disneyland', 'today', 'senator', 'elizabeth', 'warren']",neutral
+1176,"['disgusting', 'rod', 'rosenstein', 'says', 'mistakes', 'the', 'russia', 'hoax', 'mistake', 'it', 'coordinated', 'effort', 'people', 'prosecuted']",negative
+1177,"['so', 'dems', 'voted', 'a', 'y', 'e', 'release', 'memo', 'n', 'a', 'y', 'release', 'memos', 'fair', 'balanced', 'release', 'memo']",neutral
+1178,"['this', 'majority']",neutral
+1179,"['an', 'a', 'r', 'm', 'y', 'volunteers', 'minneapolis', 'helping', 'neighbors', 'clean', 'business', 'damage', 'bring', 'broom', 'told', 'what', 'sight']",positive
+1182,"['he', 'broke', 'lives', 'house', 'stealing', 'us']",negative
+1183,"['the', 'president', 'said', 'going', 'run', 'america', 'like', 'businesses', 'apparently', 'reached', 'part', 'would', 'usually', 'declare', 'bankruptcy', 'run', 'away', 'trump', 'shutdown']",negative
+1184,"['i', 'going', 'let', 'personal', 'attacks', 'president', 'distract', 'matters', 'beating', 'virus', 'keeping', 'washingtonians', 'healthy']",neutral
+1185,"['washington', 'state', 'act', 'authority', 'laws', 'jurisdiction', 'protect', 'net', 'neutrality', 'washington', 'state', ""'s"", 'citizens']",neutral
+1186,"['trust', 'friends', 'if', 'democratic', 'president', 'us', 'conservatives', 'would', 'explode', 'rage', 'usurpation', 'defilement', 'people', ""'s"", 'house', 'would', 'right']",negative
+1187,"['the', 'south', 'lawn']",neutral
+1188,"['from', 'conservative', 'disgusted', 'trumpified', 'g', 'o', 'p', 'i', 'think', 'i', 'could', 'drag', 'polls', 'left', 'performance', 'kavanaugh', 'affair', 'i', 'would', 'crawl', 'across', 'broken', 'glass', 'i', 'believe', 'sentiment', 'common']",negative
+1189,"['reminder', 'mc', 'cain', 'shot', 'rd', 'bombing', 'mission', 'north', 'vietnam', 'fractured', 'arms', 'leg', 'almost', 'drowned', 'tortured', 'years', 'two', 'years', 'solitary', 'confinement', 'endured', 'us', 'could', 'ever', 'imagine', 'tough', 'guy', 'patriot', 'hero', 'a', 'real', 'man']",negative
+1190,"['a', 'short', 'ago', 'men', 'robert', 'mueller', 'william', 'taylor', 'alexander', 'vindman', 'would', 'pinups', 'us', 'american', 'conservatives', 'decorated', 'combat', 'veterans', 'patriots', 'straight', 'arrows', 'the', 'urge', 'prop', 'trump', ""'s"", 'changed', 'a', 'heartbreaking', 'infuriating', 'era']",negative
+1191,"['listening', 'hearings', 'see', 'republicans', 'electoral', 'politics', 'media', 'worked', 'hard', 'keep', 'ever', 'coming']",negative
+1192,"['this', 'morning', 'i', 'passed', 'neighbor', 'walking', 'dog', 'he', 'uses', 'walker', 'moves', 'slowly', 'he', 'incredibly', 'tough', 'forearm', 'nail', 'nut', 'not', 'kind', 'kids', 'get', 'i', 'stared', 'rushes', 'see', 'another', 'solution']",negative
+1200,"['criticizing', 'candidate', 'issues', 'part', 'politics', 'threatening', 'children', 'we', 'thankful', 'support', 'law', 'enforcement', 'work', 'find', 'whoever', 'behind', 'senseless', 'act', 'we', 'intimidated', 'fight', 'make', 'free', 'press', 'end', 'censorship', 'years', 'ago']",negative
+1201,"['i', 'proud', 'serve', 'first', 'latina', 'lieutenant', 'governor', 'great', 'state', 'florida', 'i', 'offended', 'term', 'latinx']",negative
+1202,"['as', 'florida', 'ranks', 'lowest', 'continental', 'y', 'o', 'you', 's', 'terms', 'c', 'o', 'v', 'i', 'd', 'rates', 'per', 'capita', 'proud', 'stood', 'firm', 'protecting', 'liberty', 'throughout', 'pandemic', 'gov', 'ron', 'de', 'santis', 'approach', 'guided', 'science', 'data', 'pragmatism', 'fear', 'alarmist', 'narratives']",positive
+1203,"['s', 'c', 'o', 't', 'you', 's', 'striking', 'biden', 'o', 's', 'h', 'a', 'vaccine', 'mandate', 'great', 'step', 'right', 'direction', 'gov', 'ron', 'de', 'santis', 'i', 'said', 'one', ""'s"", 'employment', 'never', 'contingent', 'shot']",positive
+1204,"['thank', 'best', 'grassroots', 'campaign', 'state', 'ever', 'seen', 'i', 'forever', 'grateful']",positive
+1205,"['i', 'calling', 'hearing', 'y', 'o', 'you', 's', 'interpreter', 'present', 'president', 'trump', 'meeting', 'putin', 'uncover', 'discussed', 'privately', 'this', 'interpreter', 'help', 'determine', 'p', 'o', 't', 'you', 's', 'shared', 'promised', 'putin', 'behalf']",neutral
+1206,"['i', 'want', 'know', 'outrage', 'year', 'year', 'i', 'others', 'senate', 'tried', 'get', 's', 'i', 'vs', 'protect', 'afghan', 'allies', 'trump', 'administration', 'giving', 'away', 'rights', 'afghan', 'women', 'girls', 'peace', 'talks', 'taliban']",negative
+1207,"['i', 'already', 'miss', 'greatest', 'human', 'i', 'ever', 'know', 'love', 'dad']",positive
+1208,"['sully', 'watch']",neutral
+1209,"['mission', 'complete', 'remembering']",neutral
+1219,"['as', 'author', 'bill', 'implementing', 'amendment', 'no', 'intent', 'ineligible', 'would', 'granted', 'grace', 'state', 'registered', 'without', 'intent', 'commit', 'voter', 'fraud', 'some', 'individuals', 'check', 's', 'bucket', 'miscongurations', 'believed', 'could', 'register', 'intent', 'matters']",neutral
+1220,"['the', 'approach', 'beatings', 'continue', 'morale', 'improves', 'counterproductive', 'the', 'difficult', 'becomes', 'companies', 'leave', 'greater', 'reluctance', 'invest', 'address', 'question', 'leaving']",negative
+1221,"['great', 'news', 'donald', 'trump', 'd', 'e', 'n', 'i', 'e', 'd', 'minnesota']",negative
+1222,"['none', 'democrats', 'said', 'happened', 'call', 'donald', 'trump', 'ukrainian', 'president', 'zelensky', 'true', 'no', 'doubt', 'able', 'echo', 'sentiments', 'madam', 'commissioner']",negative
+1223,"['on', 'january', 'i', 'plan', 'object', 'electoral', 'college', 'certification', 'people', 'third', 'district', 'south', 'carolina', 'millions', 'americans', 'demanding', 'transparency', 'election', 'o', 'g', 'peterson', 's', 'a', 'tuccio', 'b', 'b', 'snavely', 'cw', 'operation', 'organic', 'dye', 'solution', 'dye', 'laser', 'appl']",negative
+1224,"['having', 'read', 'memo', 'f', 'b', 'i', 'right', 'grave', 'concerns', 'shake', 'organization', 'core', 'showing', 'americans', 'agency', 'weaponized', 'obama', 'officials', 'd', 'n', 'c', 'h', 'r', 'c', 'target', 'political', 'adversaries', 'release', 'memo']",negative
+1225,"['now', 'pelosi', 'schiff', 'want', 'pretend', 'transparent', 'corrupted', 'tainted', 'process', 'weeks', 'secret', 'keeping', 'information', 'members', 'congress', 'the', 'american', 'people', 'give', 'break', 'seems', 'little', 'late']",negative
+1231,"['country', 'party']",neutral
+1232,"['decency', 'wins']",neutral
+1233,"['i', 'remain', 'silent', 'what', 'travesty', 'ridicule', 'american', 'robbed', 'violated', 'wronged', 'way', 'no', 'matter', 'politics', 'laws', 'protect', 'american', 'this', 'sad', 'statement', 'coming', 'man', 'responsible', 'enforcing', 'laws']",negative
+1234,"['really', 'bad', 'news', 'the', 'baltimore', 'house', 'elijah', 'cummings', 'robbed', 'bad']",negative
+1235,"['in', 'mr', 'o', 'rourke', 'backyard', 'thousands', 'patriots', 'came', 'show', 'support', 'last', 'night', 'they', 'know', 'know', 'senator', 'cruz', 'clear', 'choice', 'keep', 'america', 'safe', 'free', 'keep', 'texas', 'strong']",positive
+1236,"['b', 'r', 'e', 'a', 'k', 'i', 'n', 'g', 'when', 'i', 'get', 'back', 'd', 'c', 'next', 'week', 'i', 'introducing', 'amendment', 'defense', 'bill', 'ron', 'wyden', 'stop', 'trump', 'administration', 'sending', 'paramilitary', 'squads', 'onto', 'america', ""'s"", 'streets', 'we', 'let', 'authoritarian', 'tactics', 'stand']",neutral
+1237,"['i', 'read', 'f', 'b', 'i', 'report', 'this', 'whole', 'thing', 'sham', 'this', 'stunted', 'strangled', 'investigation', 'designed', 'provide', 'cover', 'provide', 'truth']",negative
+1238,"['donald', 'trump', 'get', 'd', 'h', 's', 'lackey', 'uninvited', 'paramilitary', 'actions', 'state', 'our', 'communities', 'stage', 'twisted', 'reelection', 'campaign']",negative
+1239,"['hey', 'washington', 'post', 'everyone', 'puerto', 'rico', 'american']",neutral
+1240,"['president', 'donald', 'trump', 'displayed', 'tonight', 'incredible', 'drive', 'understanding', 'history', 'principles', 'made', 'america', 'great', 'masterful', 'unleashed', 'winning', 'message', 'joe', 'biden', 'match', 'game']",positive
+1241,"['look', 'i', 'know', 'anger', 'recusal', 'required', 'law', 'i', 'duty', 'damn', 'fortunate', 'i', 'protected', 'rule', 'law', 'resulted', 'exoneration', 'your', 'personal', 'feelings', 'dictate', 'alabama', 'picks', 'senator', 'people', 'alabama']",negative
+1242,"['three', 'years', 'ago', 'jeff', 'sessions', 'recused', 'fraudulent', 'mueller', 'scam', 'began', 'alabama', 'trust', 'jeff', 'sessions', 'he', 'let', 'country', 'that', 'i', 'endorsed', 'coach', 'tommy', 'tuberville', 't', 'uberville', 'true', 'supporter', 'pga', 'day']",negative
+1246,"['the', 'constitution', 'anticipates', 'president', 'like', 'it', 'anticipate', 'congress', 'indifferent', 'president', 'like']",negative
+1247,"['i', 'taught', 'west', 'baltimore', 'i', 'adore', 'kids', 'parents', 'grandparents', 'they', 'want', 'thing', 'i', 'want', 'kids', 'chance', 'children', 'safe', 'happy', 'productive', 'lives', 'let', 'us', 'think', 'language', 'use', 'hurts']",positive
+1248,"['from', 'letter', 'grandfather', 'wrote', 'point', 'light', 'vision', 'serving', 'others', 'one', 'lit', 'country', 'one', 'i', 'hope', 'country', 'lost']",positive
+1249,"['donald', 'trump', 'called', 'michigan', 'legislative', 'leaders', 'w', 'h', 'h', 'overturn', 'michigan', 'voters', 'this', 'crazy', 'potentially', 'crime', 'i', 'would', 'turn', 'plane', 'around', 'wear', 'wire']",negative
+1250,"['i', 'honored', 'president', 'elect', 'biden', 'placed', 'faith', 'energy', 'secretary', 'nominee', 'we', 'opportunity', 'build', 'back', 'better', 'creating', 'millions', 'jobs', 'we']",positive
+1251,"['i', 'know', 'boss', 'i', 'love', 'president']",positive
+1252,"['every', 'house', 'republican', 'voted', 'checks', 'family']",negative
+1253,"['d', 'c', 'area', 'man', 'trying', 'win', 'suburbs', 'refers', 'women', 'housewives']",neutral
+1254,"['the', 'suburban', 'housewives', 'america', 'must', 'read', 'article', 'biden', 'destroy', 'neighborhood', 'american', 'dream', 'i', 'preserve', 'make', 'even', 'better', 'joe', 'biden', ""'s"", 'disastrous', 'plans', 'america', ""'s"", 'suburbs']",negative
+1255,"['i', 'make', 'guess', 'i', 'believe', 'dr', 'ford']",neutral
+1256,"['rep', 'comstock', 'declines', 'say', 'believes', 'friend', 'kavanaugh', 'accusers', 'n', 'fvy', 'tid', 'ss', 'twum', 'term', 'n', 'fy', 'y', 'y', 'falls']",negative
+1257,"['thank', 'ken', 'cuccinelli', 'actually', 'saying', 'loud', 'knew', 'behind', 'donald', 'trump', 'stephen', 'miller', 'racist', 'immigration', 'agenda']",neutral
+1258,"['this', 'racism']",negative
+1259,"['i', 'happy', 'inform', 'people', 'living', 'suburban', 'lifestyle', 'dream', 'longer', 'bothered', 'financially', 'hurt', 'low', 'income', 'housing', 'built', 'neighborhood']",positive
+1260,"['i', 'sorry', 'able', 'stay', 'washington', 'conclusion', 'senate', 'impeachment', 'trial', 'i', 'need', 'home', 'wife', 'time', 'we', 'many', 'decisions', 'make', 'family', 'i', 'every', 'faith', 'colleagues', 'hope', 'senate', 'right']",neutral
+1261,"['donald', 'trump', 'lying', 'immigration', 'lying', 'crime', 'lying', 'laws', 'c', 'a', 'flying', 'dozen', 'republican', 'politicians', 'flatter', 'praise', 'reckless', 'policies', 'changes', 'nothing', 'we', 'citizens', 'fifth', 'largest', 'economy', 'world', 'impressed']",negative
+1262,"['thanks', 'shout', 'donald', 'trump', 'but', 'bridges', 'still', 'better', 'walls', 'and', 'california', 'remains', 'th', 'largest', 'economy', 'world', 'prosperous', 'state', 'america']",positive
+1263,"['my', 'statement', 'donald', 'trump', 'paris', 'agreement', 'announcement', 'act', 'on', 'climate', 'santa', 'fe']",neutral
+1264,"['at', 'time', 'unprecedented', 'political', 'turmoil', 'jeff', 'sessions', 'come', 'california', 'divide', 'polarize', 'america', 'but', 'political', 'stunts', 'may', 'norm', 'washington', 'work', 's', 'a', 'f', 'd']",negative
+1265,"['handing', 'reins', 'gavin', 'newsom', 'ranch', 'next', 'chapter']",neutral
+1266,"['this', 'vote', 'live', 'infamy', 'it', 'eviscerates', 'last', 'vestige', 'congressional', 'integrity', 'irreparable', 'damage', 'proud', 'republican', 'party', 'it', 'stand', 'tax', 'scam']",negative
+1267,"['this', 'proposal', 'incorporates', 'provisions', 'similar', 'legislation', 'i', 'introduced', 'earlier', 'month', 'sen', 'rob', 'portman', 'includes', 'widely', 'supported', 'solutions', 'sides', 'aisle', 'agree', 'congress', 'must', 'consider', 'proposal', 'real', 'sense', 'urgency']",positive
+1268,"['when', 'i', 'took', 'oath', 'beginning', 'trial', 'i', 'vowed', 'deliver', 'impartial', 'justice', 'according', 'constitution', 'law', 'i', 'took', 'oath', 'responsibility', 'seriously', 'chose', 'comment', 'i', 'heard', 'arguments', 'house', 'managers', 'president', 'lawyers']",neutral
+1271,"['hillary', 'clinton', 'belongs', 'white', 'house', 'donald', 'trump', 'belongs', 'show']",neutral
+1272,"['i', 'sorry', 'trump', ""'s"", 'behavior', 'beneath', 'dignity', 'presidency', 'decent', 'man']",negative
+1273,"['j', 'p']",neutral
+1274,"['cameron', 'donald', 'complaining', 'hillary', ""'s"", 'temperament', 'like', 'complaining', 'quality', 'television']",negative
+1275,"['crooked', 'hillary', 'clinton', 'zero', 'natural', 'talent', 'president', 'her', 'temperament', 'bad', 'decision', 'making', 'ability', 'lost']",negative
+1276,"['hey', 'da', 'real', 'amber', 'rose', 'fight', 'i', 'think', 'settle', 'show']",neutral
+1277,"['the', 'r', 'n', 'c', 'convention', 'parody', 'show', 'even', 'chanting', 'this', 'run', 'country']",negative
+1278,"['donald', 'trump', 'running', 'president', 'said', 'great', 'temperament', 'audience', 'l', 'a', 'you', 'g', 'h', 'e', 'd']",positive
+1279,"['lady', 'gaga', 'best', 'halftime', 'show', 'ever', 's', 'b']",positive
+1280,"['he', 'insults', 'john', 'lewis', 'm', 'l', 'k', 'day', 'he', 'bans', 'refugees', 'holocaust', 'remembrance', 'day', 'can', 'un', 'american', 'disgraceful']",negative
+1281,"['talk', 'stamina', 'donald', 'trump', 'pay', 'attention', 'whole', 'debate']",negative
+1282,"['no', 'matter', 'politics', 'clear', 'hillary', 'ready', 'capable', 'president', 'trump']",neutral
+1283,"['to', 'ignore', 'navajo', 'nation', 'denial', 'humanity', 'acceptance', 'genocide', 'deserve', 'better']",negative
+1284,"['b', 'r', 'e', 'a', 'k', 'i', 'n', 'g']",negative
+1285,"['bernie', 'sanders', 'iowa', 'caucus', 'votes', 'pete', 'buttigieg', 'than', 'joe', 'biden', 'get', 'delegates', 'figure']",neutral
+1286,"['n', 'o', 'a', 's', 'a', 'v', 'e', 'e', 'r', 'a', 'n', 'i', 's', 't', 'a', 'n', 'd', 'w', 'i', 't', 'h', 'c', 'o', 'l', 'i', 'i', 'n', 'c', 'e', 'e', 'e', 'p', 'e', 'r', 'n', 'i', 'c', 'k']",neutral
+1287,"['roger', 'goodell', 'n', 'f', 'l', 'put', 'statement', 'trying', 'justify', 'total', 'disrespect', 'certain', 'players', 'show', 'country', 'tell', 'stand']",negative
+1288,"['still', 'hard', 'believe', 'predator', 'years', 'old', 'many', 'thanks', 'fans', 'making', 'classic']",positive
+1292,"['prey', 'movie', 'great', 'great', 'film', 'amber', 'midthunder', 'definitely', 'got', 'time', 'bleedwelcome', 'predator', 'family', 'danny', 't', 'r', 's', 'thank', 'making', 'thoughtful', 'creative', 'wonderful', 'film']",positive
+1293,"['years', 'ago', 'i', 'lost', 'job', 'i', 'opposed', 'iraq', 'war', 'invasion', 'iraq', 'today', 'i', 'still', 'stand', 'peace', 'i', 'said', 'previously', 'i', 'oppose', 'war', 'invasion', 'standing', 'peace', 'costs', 'another', 'job', 'i', 'always', 'speak', 'war']",negative
+1294,['istanbul'],negative
+1298,"['we', 'got', 'tax', 'rich']",neutral
+1299,"['a', 'police', 'officer', 'pulls', 'black', 'man', 'mask', 'pepper', 'spray', 'his', 'hands', 'behaving', 'threatening', 'way', 'this', 'outrageous']",negative
+1300,"['i', 'heartbroken', 'disgusted', 'see', 'one', 'family', 'members', 'young', 'black', 'man', 'w', 'hands', 'peacefully', 'protesting', 'n', 'y', 'p', 'd', 'officer', 'pulls', 'mask', 'pepper', 'sprays', 'n', 'y', 'c', 'speaker', 'co', 'jo', 'b', 'p', 'eric', 'adams', 'farah', 'n', 'louis', 'jumaane', 'williams', 'new', 'york', 'state', 'a', 'g', 'm', 'd', 'shea']",negative
+1301,"['today', 'th', 'anniversary', 'tulsa', 'massacre', 'a', 'white', 'mob', 'killed', 'black', 'people', 'destroyed', 'homes', 'vibrant', 'business', 'district', 'read', 'today', 'be', 'aware', 'historical', 'patterns', 'stolen', 'wealth', 'communities', 'color', 'support', 'black', 'owned', 'business', 'today']",negative
+1302,"['t', 'h', 'e', 'c', 'you', 'r', 'f', 'e', 'w', 'i', 's', 'a', 'p', 'r', 'o', 'b', 'e', 'm', 'e', 'e', 'n', 'd', 'e', 'e', 'e', 'p', 'e', 'e', 'w', 'passiton']",negative
+1303,"['together', 'build', 'world', 'accomplishments', 'daughters', 'celebrated', 'rather', 'diminished']",positive
+1304,"['he', 'president', 'families']",positive
+1305,"['one', 'week']",neutral
+1306,"['how', 'started', 'how', 'is']",neutral
+1307,"['joe', 's', 'ready']",neutral
+1308,"['joe', 'president', 'americans']",positive
