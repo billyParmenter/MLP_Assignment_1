@@ -788,6 +788,9 @@ slangs_dict = {
     'u2': 'you too',
     'nooblet': 'young newbie',
     'ur': 'your',
-    'yr': 'your',
-    'u4e': 'yours for ever'
+    'yr': 'year',
+    'u4e': 'yours for ever',
+    'tbt': 'throwback thursday',
+    'tcot': 'tactical change of topic',
+    'cos': 'chief of staff'
 }
